@@ -1,0 +1,959 @@
+﻿Log file open, 08/11/20 18:06:39
+LogPakFile: Display: Found Pak file ../../../NetworkSessionTest/Content/Paks/NetworkSessionTest-WindowsNoEditor.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../NetworkSessionTest/Content/Paks/NetworkSessionTest-WindowsNoEditor.pak.
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.058201
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +5:30, Platform Override: ''
+LogPluginManager: Mounting plugin OnlineSubsystemPython
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: Null
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [Null]
+LogInit: Build: ++UE4+Release-4.25-CL-13942748
+LogInit: Engine Version: 4.25.3-13942748+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 970
+LogInit: Compiled (64-bit): Jul 25 2020 02:13:35
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Users/Arvind/Desktop/Projects/NetworkSessionTest/WinBuild/WindowsNoEditor/NetworkSessionTest/Binaries/Win64/
+LogInit: Allocator: binned2
+LogInit: Installed Engine Build: 0
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 2097152 objects, including 1 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [../../../NetworkSessionTest/Saved/Config/WindowsNoEditor/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogStreaming: Display: Async Loading initialized: Event Driven Loader: true, Async Loading Thread: false, Async Post Load: true
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2020.08.11-12.36.39:145][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2020.08.11-12.36.39:145][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.08.11-12.36.39:145][  0]LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2020.08.11-12.36.39:145][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [../../../NetworkSessionTest/Saved/Config/WindowsNoEditor/Engine.ini]
+[2020.08.11-12.36.39:145][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.08.11-12.36.39:145][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [../../../NetworkSessionTest/Saved/Config/WindowsNoEditor/Engine.ini]
+[2020.08.11-12.36.39:145][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [../../../NetworkSessionTest/Saved/Config/WindowsNoEditor/Engine.ini]
+[2020.08.11-12.36.39:145][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.08.11-12.36.39:145][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.08.11-12.36.39:145][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.08.11-12.36.39:146][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.08.11-12.36.39:146][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.08.11-12.36.39:146][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.08.11-12.36.39:146][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.08.11-12.36.39:146][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.08.11-12.36.39:146][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.08.11-12.36.39:146][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.08.11-12.36.39:146][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.08.11-12.36.39:146][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.08.11-12.36.39:146][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.08.11-12.36.39:146][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.08.11-12.36.39:146][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [../../../NetworkSessionTest/Saved/Config/WindowsNoEditor/Engine.ini]
+[2020.08.11-12.36.39:146][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.08.11-12.36.39:146][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.08.11-12.36.39:146][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.08.11-12.36.39:146][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.08.11-12.36.39:146][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.08.11-12.36.39:146][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.08.11-12.36.39:146][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.08.11-12.36.39:146][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.08.11-12.36.39:146][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.08.11-12.36.39:146][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.08.11-12.36.39:146][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.08.11-12.36.39:146][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.08.11-12.36.39:146][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.08.11-12.36.39:146][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [../../../NetworkSessionTest/Saved/Config/WindowsNoEditor/Engine.ini]
+[2020.08.11-12.36.39:152][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../NetworkSessionTest/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.08.11-12.36.39:152][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.08.11-12.36.39:152][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.08.11-12.36.39:152][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../NetworkSessionTest/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.08.11-12.36.39:152][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.08.11-12.36.39:152][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../NetworkSessionTest/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.08.11-12.36.39:152][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.08.11-12.36.39:152][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.08.11-12.36.39:152][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.08.11-12.36.39:152][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.08.11-12.36.39:152][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.08.11-12.36.39:152][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.08.11-12.36.39:152][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.08.11-12.36.39:152][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.08.11-12.36.39:152][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.08.11-12.36.39:152][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.08.11-12.36.39:152][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.08.11-12.36.39:152][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.08.11-12.36.39:152][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.08.11-12.36.39:152][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.08.11-12.36.39:152][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.08.11-12.36.39:152][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.08.11-12.36.39:152][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.08.11-12.36.39:152][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.08.11-12.36.39:152][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../NetworkSessionTest/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.08.11-12.36.39:152][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.08.11-12.36.39:152][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.08.11-12.36.39:152][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.08.11-12.36.39:152][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.08.11-12.36.39:152][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.08.11-12.36.39:152][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.08.11-12.36.39:152][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.08.11-12.36.39:152][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.08.11-12.36.39:152][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.08.11-12.36.39:152][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.08.11-12.36.39:152][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.08.11-12.36.39:152][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.08.11-12.36.39:152][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.08.11-12.36.39:152][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.08.11-12.36.39:152][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.08.11-12.36.39:152][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.08.11-12.36.39:152][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.08.11-12.36.39:152][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.08.11-12.36.39:152][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.08.11-12.36.39:152][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.08.11-12.36.39:152][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.08.11-12.36.39:152][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.08.11-12.36.39:152][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.08.11-12.36.39:152][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.08.11-12.36.39:152][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.08.11-12.36.39:152][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.08.11-12.36.39:152][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.08.11-12.36.39:152][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.08.11-12.36.39:152][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.08.11-12.36.39:152][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.08.11-12.36.39:152][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../NetworkSessionTest/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.08.11-12.36.39:152][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.08.11-12.36.39:153][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.08.11-12.36.39:153][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.08.11-12.36.39:153][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.08.11-12.36.39:153][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.08.11-12.36.39:153][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.08.11-12.36.39:153][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.08.11-12.36.39:153][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.08.11-12.36.39:153][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.08.11-12.36.39:153][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../NetworkSessionTest/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.08.11-12.36.39:153][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.08.11-12.36.39:153][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.08.11-12.36.39:153][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.08.11-12.36.39:153][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.08.11-12.36.39:153][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.08.11-12.36.39:153][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.08.11-12.36.39:153][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.08.11-12.36.39:153][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.08.11-12.36.39:153][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.08.11-12.36.39:153][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.08.11-12.36.39:153][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.08.11-12.36.39:153][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.08.11-12.36.39:153][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.08.11-12.36.39:153][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.08.11-12.36.39:153][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.08.11-12.36.39:153][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.08.11-12.36.39:153][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.08.11-12.36.39:153][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.08.11-12.36.39:153][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.08.11-12.36.39:153][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.08.11-12.36.39:153][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.08.11-12.36.39:153][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.08.11-12.36.39:153][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.08.11-12.36.39:153][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.08.11-12.36.39:153][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.08.11-12.36.39:153][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.08.11-12.36.39:153][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2020.08.11-12.36.39:153][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../NetworkSessionTest/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.08.11-12.36.39:153][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.08.11-12.36.39:153][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.08.11-12.36.39:153][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [../../../NetworkSessionTest/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.08.11-12.36.39:153][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.08.11-12.36.39:153][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.08.11-12.36.39:153][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.08.11-12.36.39:153][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.08.11-12.36.39:153][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.08.11-12.36.39:153][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.08.11-12.36.39:153][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.08.11-12.36.39:153][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2020.08.11-12.36.39:153][  0]LogInit: Applying CVar settings loaded from the selected device profile: [WindowsNoEditor]
+[2020.08.11-12.36.39:153][  0]LogHAL: Display: Platform has ~ 16 GB [17097269248 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.08.11-12.36.39:153][  0]LogInit: Going up to parent DeviceProfile [Windows]
+[2020.08.11-12.36.39:153][  0]LogInit: Going up to parent DeviceProfile []
+[2020.08.11-12.36.39:153][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../NetworkSessionTest/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.08.11-12.36.39:153][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.08.11-12.36.39:153][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.08.11-12.36.39:153][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../NetworkSessionTest/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.08.11-12.36.39:153][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.08.11-12.36.39:153][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../NetworkSessionTest/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.08.11-12.36.39:153][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.08.11-12.36.39:153][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.08.11-12.36.39:153][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.08.11-12.36.39:153][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.08.11-12.36.39:153][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.08.11-12.36.39:153][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.08.11-12.36.39:153][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.08.11-12.36.39:153][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.08.11-12.36.39:153][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.08.11-12.36.39:153][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.08.11-12.36.39:153][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../NetworkSessionTest/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../NetworkSessionTest/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../NetworkSessionTest/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.08.11-12.36.39:154][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.08.11-12.36.39:155][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.08.11-12.36.39:155][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.08.11-12.36.39:155][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.08.11-12.36.39:155][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.08.11-12.36.39:155][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.08.11-12.36.39:155][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.08.11-12.36.39:155][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.08.11-12.36.39:155][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.08.11-12.36.39:155][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.08.11-12.36.39:155][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2020.08.11-12.36.39:155][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../NetworkSessionTest/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.08.11-12.36.39:155][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.08.11-12.36.39:155][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.08.11-12.36.39:155][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [../../../NetworkSessionTest/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.08.11-12.36.39:155][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.08.11-12.36.39:155][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.08.11-12.36.39:155][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.08.11-12.36.39:155][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.08.11-12.36.39:155][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.08.11-12.36.39:155][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.08.11-12.36.39:155][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.08.11-12.36.39:155][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.08.11-12.36.39:155][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.08.11-12.36.39:155][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.08.11-12.36.39:155][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.08.11-12.36.39:155][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [../../../NetworkSessionTest/Saved/Config/WindowsNoEditor/Engine.ini]
+[2020.08.11-12.36.39:155][  0]LogInit: Computer: DESKTOP-1H3RAB5
+[2020.08.11-12.36.39:155][  0]LogInit: User: Arvind
+[2020.08.11-12.36.39:155][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.08.11-12.36.39:155][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.08.11-12.36.39:155][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.08.11-12.36.39:155][  0]LogMemory: Platform Memory Stats for WindowsNoEditor
+[2020.08.11-12.36.39:155][  0]LogMemory: Process Physical Memory: 63.93 MB used, 63.94 MB peak
+[2020.08.11-12.36.39:155][  0]LogMemory: Process Virtual Memory: 71.90 MB used, 71.90 MB peak
+[2020.08.11-12.36.39:155][  0]LogMemory: Physical Memory: 10764.57 MB used,  5540.66 MB free, 16305.23 MB total
+[2020.08.11-12.36.39:155][  0]LogMemory: Virtual Memory: 4929.90 MB used,  134212800.00 MB free, 134217728.00 MB total
+[2020.08.11-12.36.39:160][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.08.11-12.36.39:305][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.08.11-12.36.39:305][  0]LogInit: Using OS detected language (en-US).
+[2020.08.11-12.36.39:305][  0]LogInit: Using OS detected locale (en-US).
+[2020.08.11-12.36.39:306][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.08.11-12.36.39:337][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.08.11-12.36.39:337][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.08.11-12.36.39:351][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2020.08.11-12.36.39:351][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.08.11-12.36.39:351][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.08.11-12.36.39:351][  0]LogD3D11RHI: D3D11 adapters:
+[2020.08.11-12.36.39:405][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2020.08.11-12.36.39:405][  0]LogD3D11RHI:       4043/0/8152 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.08.11-12.36.39:407][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.08.11-12.36.39:407][  0]LogD3D11RHI:       0/0/8152 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.08.11-12.36.39:407][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.08.11-12.36.39:417][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.08.11-12.36.39:417][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2020.08.11-12.36.39:417][  0]LogWindows: EnumDisplayDevices:
+[2020.08.11-12.36.39:417][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2020.08.11-12.36.39:417][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2020.08.11-12.36.39:417][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2020.08.11-12.36.39:418][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2020.08.11-12.36.39:418][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.08.11-12.36.39:418][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2020.08.11-12.36.39:418][  0]LogD3D11RHI:   Driver Version: 445.87 (internal:26.21.14.4587, unified:445.87)
+[2020.08.11-12.36.39:418][  0]LogD3D11RHI:      Driver Date: 4-3-2020
+[2020.08.11-12.36.39:418][  0]LogRHI: Texture pool is 2830 MB (70% of 4043 MB)
+[2020.08.11-12.36.39:461][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.08.11-12.36.39:461][  0]LogD3D11RHI: Async texture creation enabled
+[2020.08.11-12.36.39:461][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.08.11-12.36.39:478][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.08.11-12.36.39:479][  0]LogShaderLibrary: Display: Using ../../../NetworkSessionTest/Content/ShaderArchive-Global-PCD3D_SM5.ushaderbytecode for material shader code. Total 2058 unique shaders.
+[2020.08.11-12.36.39:479][  0]LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library Global
+[2020.08.11-12.36.39:480][  0]LogTemp: Warning: Clearing the OS Cache
+[2020.08.11-12.36.39:482][  0]LogPakFile: New pak file ../../../NetworkSessionTest/Content/Paks/NetworkSessionTest-WindowsNoEditor.pak added to pak precacher.
+[2020.08.11-12.36.39:501][  0]LogSlate: Using FreeType 2.10.0
+[2020.08.11-12.36.39:501][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.08.11-12.36.39:535][  0]LogShaderLibrary: Display: Using ../../../NetworkSessionTest/Content/ShaderArchive-NetworkSessionTest-PCD3D_SM5.ushaderbytecode for material shader code. Total 1242 unique shaders.
+[2020.08.11-12.36.39:535][  0]LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library NetworkSessionTest
+[2020.08.11-12.36.39:535][  0]LogRHI: Display: Opened pipeline cache after state change and enqueued 0 of 0 tasks for precompile.
+[2020.08.11-12.36.39:535][  0]LogRHI: Display: Failed to open default shader pipeline cache for NetworkSessionTest using shader platform 0.
+[2020.08.11-12.36.39:535][  0]LogRHI: Display: Failed to open default shader pipeline cache for NetworkSessionTest using shader platform 0.
+[2020.08.11-12.36.39:535][  0]LogInit: Using OS detected language (en-US).
+[2020.08.11-12.36.39:535][  0]LogInit: Using OS detected locale (en-US).
+[2020.08.11-12.36.39:535][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2020.08.11-12.36.39:536][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the locale.
+[2020.08.11-12.36.39:536][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2020.08.11-12.36.39:536][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2020.08.11-12.36.39:537][  0]LogTextLocalizationManager: Compacting localization data took   0.70ms
+[2020.08.11-12.36.39:539][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
+[2020.08.11-12.36.39:615][  0]LogStreaming: Display: Flushing async loaders.
+[2020.08.11-12.36.39:615][  0]LogPackageLocalizationCache: Processed 18 localized package path(s) for 1 prioritized culture(s) in 0.000074 seconds
+[2020.08.11-12.36.39:618][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2020.08.11-12.36.39:631][  0]LogNetVersion: NetworkSessionTest 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 1969252174)
+[2020.08.11-12.36.39:656][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.08.11-12.36.39:656][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.08.11-12.36.39:690][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (00000146BFE90C00), frame # 0
+[2020.08.11-12.36.39:690][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000146BF581000), frame # 0
+[2020.08.11-12.36.39:691][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000146BFE60200), frame # 0
+[2020.08.11-12.36.39:711][  0]LogMoviePlayer: Initializing movie player
+[2020.08.11-12.36.39:714][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.08.11-12.36.39:714][  0]LogOcInput: OculusInput pre-init called
+[2020.08.11-12.36.39:717][  0]LogUObjectArray: 14358 objects as part of root set at end of initial load.
+[2020.08.11-12.36.39:717][  0]LogUObjectArray: 2 objects are not in the root set, but can never be destroyed because they are in the DisregardForGC set.
+[2020.08.11-12.36.39:717][  0]LogUObjectAllocator: 2950200 out of 0 bytes used by permanent object pool.
+[2020.08.11-12.36.39:717][  0]LogUObjectArray: CloseDisregardForGC: 14358/14358 objects in disregard for GC pool
+[2020.08.11-12.36.39:718][  0]LogEngine: Initializing Engine...
+[2020.08.11-12.36.39:718][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2020.08.11-12.36.39:719][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.08.11-12.36.39:762][  0]LogPakFile: Precache HighWater 16MB
+
+[2020.08.11-12.36.39:762][  0]LogPakFile: Precache HighWater 32MB
+
+[2020.08.11-12.36.39:762][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.08.11-12.36.39:762][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.11-12.36.39:762][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.11-12.36.39:762][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.11-12.36.39:762][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.11-12.36.39:762][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.11-12.36.39:762][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.11-12.36.39:762][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.11-12.36.39:762][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.11-12.36.39:762][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.11-12.36.39:762][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.11-12.36.39:809][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.08.11-12.36.39:820][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.11-12.36.39:820][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.08.11-12.36.39:855][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.08.11-12.36.39:856][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.11-12.36.39:856][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.11-12.36.39:856][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.11-12.36.39:857][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.11-12.36.39:858][  0]LogInit: FAudioDevice initialized.
+[2020.08.11-12.36.39:858][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.08.11-12.36.39:858][  0]LogInit: Texture streaming: Enabled
+[2020.08.11-12.36.39:873][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.11-12.36.39:873][  0]LogInit: Display: Game Engine Initialized.
+[2020.08.11-12.36.39:874][  0]LogInit: Display: Starting Game.
+[2020.08.11-12.36.39:874][  0]LogNet: Browse: /Game/mainmenu?Name=Player
+[2020.08.11-12.36.39:874][  0]LogLoad: LoadMap: /Game/mainmenu?Name=Player
+[2020.08.11-12.36.39:874][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2020.08.11-12.36.39:877][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.08.11-12.36.39:877][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.11-12.36.39:880][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.08.11-12.36.39:889][  0]LogAIModule: Creating AISystem for world mainmenu
+[2020.08.11-12.36.39:889][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000146BFE69A00), frame # 0
+[2020.08.11-12.36.39:889][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001469986F100), frame # 0
+[2020.08.11-12.36.39:889][  0]LogLoad: Game class is 'TPMode_C'
+[2020.08.11-12.36.39:890][  0]LogWorld: Bringing World /Game/mainmenu.mainmenu up for play (max tick rate 0) at 2020.08.11-18.06.39
+[2020.08.11-12.36.39:891][  0]LogWorld: Bringing up level for play took: 0.000305
+[2020.08.11-12.36.39:891][  0]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.08.11-12.36.39:978][  0]LogVoiceEncode: Display: EncoderVersion: libopus 1.1-beta
+[2020.08.11-12.36.39:978][  0]LogVoiceEngine: Error: OSS: StartLocalVoiceProcessing(): Device is currently owned by another user
+[2020.08.11-12.36.39:978][  0]LogOnlineVoice: OSS: StartLocalProcessing(0) returned 0xFFFFFFFF
+[2020.08.11-12.36.39:978][  0]LogOnlineVoice: OSS: Starting networked voice for user: 0
+[2020.08.11-12.36.39:984][  0]LogUMG: Display: Widget Class mainmenu_C - Loaded Fast Template.
+[2020.08.11-12.36.39:985][  0]LogLoad: Took 0.110896 seconds to LoadMap(/Game/mainmenu)
+[2020.08.11-12.36.40:006][  0]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 1 (Frame:1).
+[2020.08.11-12.36.40:006][  0]LogRHI: Display: ShaderPipelineCache: Paused Batching. 1
+[2020.08.11-12.36.40:006][  0]LogRHI: Display: ShaderPipelineCache: Resumed Batching. 0
+[2020.08.11-12.36.40:006][  0]LogRHI: Display: ShaderPipelineCache: Batching Resumed.
+[2020.08.11-12.36.40:006][  0]LogLoad: (Engine Initialization) Total time: 1.12 seconds
+[2020.08.11-12.36.40:027][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.08.11-12.36.40:028][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.11-12.36.40:220][  0]LogSlate: Slate font cache was flushed
+[2020.08.11-12.36.43:508][883]LogOnlineSession: Warning: OSS: Can't destroy a null online session (GameSession)
+[2020.08.11-12.36.43:512][883]LogVoiceEngine: Error: OSS: StartLocalVoiceProcessing(): Device is currently owned by another user
+[2020.08.11-12.36.43:512][883]LogOnlineVoice: OSS: StartLocalProcessing(0) returned 0xFFFFFFFF
+[2020.08.11-12.36.43:512][883]LogOnlineVoice: OSS: Starting networked voice for user: 0
+[2020.08.11-12.36.43:525][883]LogOnlineVoice: OSS: RegisterLocalTalker(0) returned 0x00000000
+[2020.08.11-12.36.43:525][883]LogOnlineVoice: OSS: Invalid user specified in RegisterLocalTalker(1)
+[2020.08.11-12.36.43:525][883]LogOnlineVoice: OSS: Invalid user specified in RegisterLocalTalker(2)
+[2020.08.11-12.36.43:525][883]LogOnlineVoice: OSS: Invalid user specified in RegisterLocalTalker(3)
+[2020.08.11-12.36.43:525][883]LogNet: Browse: /Game/GameLevel?listen
+[2020.08.11-12.36.43:525][883]LogLoad: LoadMap: /Game/GameLevel?listen
+[2020.08.11-12.36.43:525][883]LogWorld: BeginTearingDown for /Game/mainmenu
+[2020.08.11-12.36.43:526][883]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.08.11-12.36.43:527][883]LogWorld: UWorld::CleanupWorld for mainmenu, bSessionEnded=true, bCleanupResources=true
+[2020.08.11-12.36.43:528][883]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.11-12.36.43:564][883]LogAudio: Display: Waited 35.808197 ms for audio thread.
+[2020.08.11-12.36.43:574][883]LogAudio: Display: Waited 46.013199 ms for audio thread.
+[2020.08.11-12.36.43:576][883]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000146BFE69A00), frame # 883
+[2020.08.11-12.36.43:576][883]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001469986F100), frame # 883
+[2020.08.11-12.36.43:577][883]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2020.08.11-12.36.43:578][883]LogStreaming: Display: Flushing async loaders.
+[2020.08.11-12.36.43:595][883]LogAIModule: Creating AISystem for world GameLevel
+[2020.08.11-12.36.43:595][883]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000146BDCE2200), frame # 883
+[2020.08.11-12.36.43:595][883]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001469986DD00), frame # 883
+[2020.08.11-12.36.43:596][883]LogLoad: Game class is 'TPMode_C'
+[2020.08.11-12.36.43:597][883]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2020.08.11-12.36.43:597][883]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2020.08.11-12.36.43:597][883]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2020.08.11-12.36.43:597][883]LogNet: Created socket for bind address: 0.0.0.0 on port 7777
+[2020.08.11-12.36.43:597][883]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.08.11-12.36.43:597][883]LogNet: GameNetDriver IpNetDriver_2147482519 IpNetDriver listening on port 7777
+[2020.08.11-12.36.43:599][883]LogWorld: Bringing World /Game/GameLevel.GameLevel up for play (max tick rate 0) at 2020.08.11-18.06.43
+[2020.08.11-12.36.43:599][883]LogWorld: Bringing up level for play took: 0.001179
+[2020.08.11-12.36.43:604][883]LogOnlineVoice: OSS: StartLocalProcessing(0) returned 0x00000000
+[2020.08.11-12.36.43:604][883]LogOnlineVoice: OSS: Starting networked voice for user: 0
+[2020.08.11-12.36.43:605][883]LogLoad: Took 0.079197 seconds to LoadMap(/Game/GameLevel)
+[2020.08.11-12.36.43:711][885]LogVoiceCapture: Warning: Resetting UncompressedAudioBuffer.
+[2020.08.11-12.36.47:237][536]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 12, LastCall: 0.000 ms
+[2020.08.11-12.36.47:237][536]LogOnlineVoice: OSS: Trigger Local 0 TALKING
+[2020.08.11-12.36.47:358][558]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 120.025 ms
+[2020.08.11-12.36.47:390][564]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.980 ms
+[2020.08.11-12.36.47:420][570]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 29.845 ms
+[2020.08.11-12.36.47:453][576]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.730 ms
+[2020.08.11-12.36.47:485][582]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.278 ms
+[2020.08.11-12.36.47:517][588]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 32.084 ms
+[2020.08.11-12.36.47:541][592]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 23.777 ms
+[2020.08.11-12.36.47:574][598]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 33.346 ms
+[2020.08.11-12.36.47:609][604]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 34.685 ms
+[2020.08.11-12.36.47:641][610]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.993 ms
+[2020.08.11-12.36.47:673][616]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.425 ms
+[2020.08.11-12.36.47:704][622]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.876 ms
+[2020.08.11-12.36.47:735][628]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 30.438 ms
+[2020.08.11-12.36.47:766][634]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 85, LastCall: 31.747 ms
+[2020.08.11-12.36.47:798][640]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 74, LastCall: 31.343 ms
+[2020.08.11-12.36.47:829][646]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 126, LastCall: 30.971 ms
+[2020.08.11-12.36.47:849][650]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 58, LastCall: 20.363 ms
+[2020.08.11-12.36.47:893][658]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 97, LastCall: 43.548 ms
+[2020.08.11-12.36.47:923][664]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 52, LastCall: 30.171 ms
+[2020.08.11-12.36.47:954][670]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 111, LastCall: 31.077 ms
+[2020.08.11-12.36.47:987][676]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 104, LastCall: 32.540 ms
+[2020.08.11-12.36.48:025][682]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 47, LastCall: 37.866 ms
+[2020.08.11-12.36.48:044][686]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 93, LastCall: 19.118 ms
+[2020.08.11-12.36.48:074][692]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 44, LastCall: 31.005 ms
+[2020.08.11-12.36.48:099][696]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 41, LastCall: 25.083 ms
+[2020.08.11-12.36.48:141][704]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 41.308 ms
+[2020.08.11-12.36.48:171][710]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 30.642 ms
+[2020.08.11-12.36.48:205][716]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 33.927 ms
+[2020.08.11-12.36.48:242][718]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 36.502 ms
+[2020.08.11-12.36.48:285][720]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 43.281 ms
+[2020.08.11-12.36.48:355][722]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 38, LastCall: 69.648 ms
+[2020.08.11-12.36.48:393][724]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 38.006 ms
+[2020.08.11-12.36.48:436][726]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 0, LastCall: 43.650 ms
+[2020.08.11-12.36.48:436][726]LogVoiceEngine: Warning: OSS: ReadLocalVoiceData: GetVoice failure: VoiceResult: Ok
+[2020.08.11-12.36.48:436][726]LogVoiceEngine: Warning: OSS: Voice data error in ReadLocalVoiceData
+[2020.08.11-12.36.48:728][737]LogOnlineVoice: OSS: Trigger Local 0 NOTTALKING
+[2020.08.11-12.36.48:999][748]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 562.069 ms
+[2020.08.11-12.36.48:999][748]LogOnlineVoice: OSS: Trigger Local 0 TALKING
+[2020.08.11-12.36.49:043][750]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 29, LastCall: 44.026 ms
+[2020.08.11-12.36.49:081][752]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 38.607 ms
+[2020.08.11-12.36.49:131][754]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 49.366 ms
+[2020.08.11-12.36.49:183][756]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 29, LastCall: 51.715 ms
+[2020.08.11-12.36.49:236][758]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 38, LastCall: 53.696 ms
+[2020.08.11-12.36.49:270][760]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 33.788 ms
+[2020.08.11-12.36.49:324][762]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 29, LastCall: 53.268 ms
+[2020.08.11-12.36.49:367][764]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 43.527 ms
+[2020.08.11-12.36.49:401][766]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 34.564 ms
+[2020.08.11-12.36.49:454][768]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 38, LastCall: 52.815 ms
+[2020.08.11-12.36.49:506][770]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 52.270 ms
+[2020.08.11-12.36.49:564][772]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 29, LastCall: 57.582 ms
+[2020.08.11-12.36.49:598][774]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 34.670 ms
+[2020.08.11-12.36.49:628][776]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 30.081 ms
+[2020.08.11-12.36.49:687][778]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 29, LastCall: 58.188 ms
+[2020.08.11-12.36.49:722][780]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 35.382 ms
+[2020.08.11-12.36.49:770][782]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 29, LastCall: 47.722 ms
+[2020.08.11-12.36.49:804][784]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 34.224 ms
+[2020.08.11-12.36.49:843][786]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 38.708 ms
+[2020.08.11-12.36.49:910][788]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 29, LastCall: 66.944 ms
+[2020.08.11-12.36.49:966][790]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 29, LastCall: 56.517 ms
+[2020.08.11-12.36.50:173][798]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 29, LastCall: 206.481 ms
+[2020.08.11-12.36.50:495][810]LogOnlineVoice: OSS: Trigger Local 0 NOTTALKING
+[2020.08.11-12.36.51:280][840]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 38, LastCall: 1107.811 ms
+[2020.08.11-12.36.51:280][840]LogOnlineVoice: OSS: Trigger Local 0 TALKING
+[2020.08.11-12.36.51:373][842]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 38, LastCall: 92.669 ms
+[2020.08.11-12.36.51:436][844]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 29, LastCall: 62.401 ms
+[2020.08.11-12.36.51:493][846]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 29, LastCall: 57.794 ms
+[2020.08.11-12.36.51:550][848]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 38, LastCall: 56.809 ms
+[2020.08.11-12.36.51:613][850]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 29, LastCall: 62.339 ms
+[2020.08.11-12.36.51:688][852]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 29, LastCall: 75.656 ms
+[2020.08.11-12.36.51:729][854]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 40.477 ms
+[2020.08.11-12.36.51:777][856]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 0, LastCall: 48.083 ms
+[2020.08.11-12.36.51:777][856]LogVoiceEngine: Warning: OSS: ReadLocalVoiceData: GetVoice failure: VoiceResult: Ok
+[2020.08.11-12.36.51:777][856]LogVoiceEngine: Warning: OSS: Voice data error in ReadLocalVoiceData
+[2020.08.11-12.36.52:049][864]LogOnlineVoice: OSS: Trigger Local 0 NOTTALKING
+[2020.08.11-12.36.52:739][888]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 29, LastCall: 962.731 ms
+[2020.08.11-12.36.52:739][888]LogOnlineVoice: OSS: Trigger Local 0 TALKING
+[2020.08.11-12.36.52:792][890]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 29, LastCall: 51.857 ms
+[2020.08.11-12.36.52:858][892]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 66.576 ms
+[2020.08.11-12.36.53:148][902]LogOnlineVoice: OSS: Trigger Local 0 NOTTALKING
+[2020.08.11-12.36.54:122][942]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 29, LastCall: 1263.975 ms
+[2020.08.11-12.36.54:122][942]LogOnlineVoice: OSS: Trigger Local 0 TALKING
+[2020.08.11-12.36.54:157][944]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 34.800 ms
+[2020.08.11-12.36.54:209][946]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 29, LastCall: 51.724 ms
+[2020.08.11-12.36.54:277][948]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 38, LastCall: 68.197 ms
+[2020.08.11-12.36.54:319][950]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 42.501 ms
+[2020.08.11-12.36.54:367][952]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 29, LastCall: 47.961 ms
+[2020.08.11-12.36.54:407][954]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 39.564 ms
+[2020.08.11-12.36.54:456][956]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 29, LastCall: 49.186 ms
+[2020.08.11-12.36.54:507][958]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 51.243 ms
+[2020.08.11-12.36.54:537][960]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 30.092 ms
+[2020.08.11-12.36.54:795][972]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 29, LastCall: 257.893 ms
+[2020.08.11-12.36.54:827][974]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.309 ms
+[2020.08.11-12.36.54:883][976]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 56.741 ms
+[2020.08.11-12.36.54:941][978]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 29, LastCall: 57.200 ms
+[2020.08.11-12.36.54:983][980]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 29, LastCall: 43.545 ms
+[2020.08.11-12.36.55:090][984]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 105.938 ms
+[2020.08.11-12.36.55:424][996]LogOnlineVoice: OSS: Trigger Local 0 NOTTALKING
+[2020.08.11-12.36.56:076][ 24]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 985.983 ms
+[2020.08.11-12.36.56:076][ 24]LogOnlineVoice: OSS: Trigger Local 0 TALKING
+[2020.08.11-12.36.56:168][ 28]LogNet: NotifyAcceptingConnection accepted from: 192.168.0.67:57392
+[2020.08.11-12.36.56:169][ 28]LogHandshake: SendConnectChallenge. Timestamp: 12.664453, Cookie: 099108251085243162059135156116057153141058142213156053240186
+[2020.08.11-12.36.56:187][ 29]LogNet: NotifyAcceptingConnection accepted from: 192.168.0.67:57392
+[2020.08.11-12.36.56:187][ 29]LogHandshake: SendChallengeAck. InCookie: 099108251085243162059135156116057153141058142213156053240186
+[2020.08.11-12.36.56:187][ 29]LogNet: Server accepting post-challenge connection from: 192.168.0.67:57392
+[2020.08.11-12.36.56:188][ 29]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.08.11-12.36.56:188][ 29]LogNet: NotifyAcceptedConnection: Name: GameLevel, TimeStamp: 08/11/20 18:06:56, [UNetConnection] RemoteAddr: 192.168.0.67:57392, Name: IpConnection_2147482490, Driver: GameNetDriver IpNetDriver_2147482519, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.08.11-12.36.56:188][ 29]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 192.168.0.67:57392, Name: IpConnection_2147482490, Driver: GameNetDriver IpNetDriver_2147482519, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.08.11-12.36.56:213][ 30]LogNet: NotifyAcceptingChannel Control 0 server World /Game/GameLevel.GameLevel: Accepted
+[2020.08.11-12.36.56:213][ 30]LogNet: Remote platform little endian=1
+[2020.08.11-12.36.56:213][ 30]LogNet: This platform little endian=1
+[2020.08.11-12.36.56:213][ 30]LogNetVersion: NetworkSessionTest 1.0.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 1524895794)
+[2020.08.11-12.36.56:236][ 31]LogNet: Login request: ?Name=DESKTOP-1H3RAB5-68A855BB43F3E1E275F552940F134EB5 userId: Null:DESKTOP-1H3RAB5-68A855BB43F3E1E275F552940F134EB5 platform: Null
+[2020.08.11-12.36.56:252][ 32]LogNet: Client netspeed is 10000
+[2020.08.11-12.36.56:306][ 39]LogNet: Join request: /Game/mainmenu?Name=DESKTOP-1H3RAB5-68A855BB43F3E1E275F552940F134EB5?SplitscreenCount=1
+[2020.08.11-12.36.56:306][ 39]LogOnlineVoice: OSS: RegisterRemoteTalker(DESKTOP-1H3RAB5-68A855BB43F3E1E275F552940F134EB5) returned 0x00000000
+[2020.08.11-12.36.56:307][ 39]LogOnlineVoice: OSS: Unmuting remote talker (DESKTOP-1H3RAB5-68A855BB43F3E1E275F552940F134EB5)
+[2020.08.11-12.36.56:307][ 39]LogOnlineVoice: OSS: StartRemoteVoiceProcessing(DESKTOP-1H3RAB5-68A855BB43F3E1E275F552940F134EB5) returned 0x00000000
+[2020.08.11-12.36.56:314][ 39]LogNet: Join succeeded: DESKTOP-1H3RAB5-68A8
+[2020.08.11-12.36.56:384][ 51]LogOnlineVoice: OSS: Trigger Local 0 NOTTALKING
+[2020.08.11-12.36.56:605][ 69]LogOnlineVoice: OSS: Unmuting remote talker (DESKTOP-1H3RAB5-68A855BB43F3E1E275F552940F134EB5)
+[2020.08.11-12.36.58:400][126]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 2324.775 ms
+[2020.08.11-12.36.58:400][126]LogOnlineVoice: OSS: Trigger Local 0 TALKING
+[2020.08.11-12.36.58:420][127]LogVoiceDecode: Display: DecoderVersion: libopus 1.1-beta
+[2020.08.11-12.36.58:422][127]LogOnlineVoice: OSS: Trigger Remote DESKTOP-1H3RAB5-68A855BB43F3E1E275F552940F134EB5 TALKING
+[2020.08.11-12.36.58:440][128]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 39.345 ms
+[2020.08.11-12.36.58:494][130]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 29, LastCall: 53.875 ms
+[2020.08.11-12.36.58:546][132]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 29, LastCall: 52.377 ms
+[2020.08.11-12.36.58:625][134]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 29, LastCall: 78.987 ms
+[2020.08.11-12.36.58:626][134]LogNet: Warning: Network saturated
+[2020.08.11-12.36.58:626][134]LogNet: Dropped 1 packets due to congestion in the voicechannel
+[2020.08.11-12.36.58:678][136]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 29, LastCall: 52.615 ms
+[2020.08.11-12.36.58:731][138]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 29, LastCall: 53.334 ms
+[2020.08.11-12.36.58:784][140]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 52.601 ms
+[2020.08.11-12.36.58:901][144]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 38, LastCall: 117.324 ms
+[2020.08.11-12.36.58:965][146]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 29, LastCall: 63.900 ms
+[2020.08.11-12.36.59:005][148]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 40.165 ms
+[2020.08.11-12.36.59:018][150]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 12.861 ms
+[2020.08.11-12.36.59:046][152]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 28.282 ms
+[2020.08.11-12.36.59:074][154]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 27.950 ms
+[2020.08.11-12.36.59:101][156]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 26.540 ms
+[2020.08.11-12.36.59:151][160]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 49.572 ms
+[2020.08.11-12.36.59:177][162]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 25.941 ms
+[2020.08.11-12.36.59:203][164]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 26.125 ms
+[2020.08.11-12.36.59:229][166]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 0, LastCall: 26.237 ms
+[2020.08.11-12.36.59:229][166]LogVoiceEngine: Warning: OSS: ReadLocalVoiceData: GetVoice failure: VoiceResult: Ok
+[2020.08.11-12.36.59:229][166]LogVoiceEngine: Warning: OSS: Voice data error in ReadLocalVoiceData
+[2020.08.11-12.36.59:521][188]LogOnlineVoice: OSS: Trigger Local 0 NOTTALKING
+[2020.08.11-12.36.59:560][191]LogOnlineVoice: OSS: Trigger Remote DESKTOP-1H3RAB5-68A855BB43F3E1E275F552940F134EB5 NOTTALKING
+[2020.08.11-12.37.00:322][228]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 29, LastCall: 1093.444 ms
+[2020.08.11-12.37.00:322][228]LogOnlineVoice: OSS: Trigger Local 0 TALKING
+[2020.08.11-12.37.00:355][229]LogOnlineVoice: OSS: Trigger Remote DESKTOP-1H3RAB5-68A855BB43F3E1E275F552940F134EB5 TALKING
+[2020.08.11-12.37.00:629][242]LogOnlineVoice: OSS: Trigger Local 0 NOTTALKING
+[2020.08.11-12.37.00:656][244]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 333.650 ms
+[2020.08.11-12.37.00:656][244]LogOnlineVoice: OSS: Trigger Local 0 TALKING
+[2020.08.11-12.37.00:669][245]LogOnlineVoice: OSS: Trigger Remote DESKTOP-1H3RAB5-68A855BB43F3E1E275F552940F134EB5 NOTTALKING
+[2020.08.11-12.37.00:682][246]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 26.817 ms
+[2020.08.11-12.37.00:682][246]LogOnlineVoice: OSS: Trigger Remote DESKTOP-1H3RAB5-68A855BB43F3E1E275F552940F134EB5 TALKING
+[2020.08.11-12.37.00:710][248]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 27.725 ms
+[2020.08.11-12.37.00:737][250]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 27.078 ms
+[2020.08.11-12.37.00:765][252]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 27.425 ms
+[2020.08.11-12.37.00:792][254]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 0, LastCall: 27.231 ms
+[2020.08.11-12.37.00:792][254]LogVoiceEngine: Warning: OSS: ReadLocalVoiceData: GetVoice failure: VoiceResult: Ok
+[2020.08.11-12.37.00:792][254]LogVoiceEngine: Warning: OSS: Voice data error in ReadLocalVoiceData
+[2020.08.11-12.37.01:090][276]LogOnlineVoice: OSS: Trigger Local 0 NOTTALKING
+[2020.08.11-12.37.01:158][281]LogOnlineVoice: OSS: Trigger Remote DESKTOP-1H3RAB5-68A855BB43F3E1E275F552940F134EB5 NOTTALKING
+[2020.08.11-12.37.01:443][302]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 651.447 ms
+[2020.08.11-12.37.01:444][302]LogOnlineVoice: OSS: Trigger Local 0 TALKING
+[2020.08.11-12.37.01:444][302]LogOnlineVoice: OSS: Trigger Remote DESKTOP-1H3RAB5-68A855BB43F3E1E275F552940F134EB5 TALKING
+[2020.08.11-12.37.01:777][326]LogOnlineVoice: OSS: Trigger Local 0 NOTTALKING
+[2020.08.11-12.37.01:777][326]LogOnlineVoice: OSS: Trigger Remote DESKTOP-1H3RAB5-68A855BB43F3E1E275F552940F134EB5 NOTTALKING
+[2020.08.11-12.37.07:159][766]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 5715.811 ms
+[2020.08.11-12.37.07:159][766]LogOnlineVoice: OSS: Trigger Local 0 TALKING
+[2020.08.11-12.37.07:191][767]LogOnlineVoice: OSS: Trigger Remote DESKTOP-1H3RAB5-68A855BB43F3E1E275F552940F134EB5 TALKING
+[2020.08.11-12.37.07:497][777]LogOnlineVoice: OSS: Trigger Local 0 NOTTALKING
+[2020.08.11-12.37.07:528][778]LogOnlineVoice: OSS: Trigger Remote DESKTOP-1H3RAB5-68A855BB43F3E1E275F552940F134EB5 NOTTALKING
+[2020.08.11-12.37.08:070][803]LogNet: UChannel::ReceivedSequencedBunch: Bunch.bClose == true. ChIndex == 0. Calling ConditionalCleanUp.
+[2020.08.11-12.37.08:070][803]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.0.67:57392, Name: IpConnection_2147482490, Driver: GameNetDriver IpNetDriver_2147482519, IsServer: YES, PC: PlayerController_2147482486, Owner: PlayerController_2147482486, UniqueId: Null:DESKTOP-1H3RAB5-68A855BB43F3E1E275F552940F134EB5
+[2020.08.11-12.37.08:070][803]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 192.168.0.67:57392, Name: IpConnection_2147482490, Driver: GameNetDriver IpNetDriver_2147482519, IsServer: YES, PC: PlayerController_2147482486, Owner: PlayerController_2147482486, UniqueId: Null:DESKTOP-1H3RAB5-68A855BB43F3E1E275F552940F134EB5, Channels: 11, Time: 2020.08.11-12.37.08
+[2020.08.11-12.37.08:070][803]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.0.67:57392, Name: IpConnection_2147482490, Driver: GameNetDriver IpNetDriver_2147482519, IsServer: YES, PC: PlayerController_2147482486, Owner: PlayerController_2147482486, UniqueId: Null:DESKTOP-1H3RAB5-68A855BB43F3E1E275F552940F134EB5
+[2020.08.11-12.37.08:071][803]LogOnlineVoice: OSS: UnregisterRemoteTalker(DESKTOP-1H3RAB5-68A855BB43F3E1E275F552940F134EB5) returned 0x00000000
+[2020.08.11-12.37.09:121][989]LogWindowsDesktop: Alt-F4 pressed!
+[2020.08.11-12.37.09:122][989]LogSlate: Request Window 'NetworkSessionTest (64-bit Development PCD3D_SM5) ' being destroyed
+[2020.08.11-12.37.09:132][989]LogSlate: Window 'NetworkSessionTest (64-bit Development PCD3D_SM5) ' being destroyed
+[2020.08.11-12.37.09:133][989]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.08.11-12.37.09:137][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.11-12.37.09:137][989]LogEngine: All Windows Closed
+[2020.08.11-12.37.09:137][989]LogWindows: FPlatformMisc::RequestExit(0)
+[2020.08.11-12.37.09:137][989]LogCore: Engine exit requested (reason: Win RequestExit)
+[2020.08.11-12.37.09:137][990]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.08.11-12.37.09:138][990]LogAudio: Display: Shutting down audio device while 2 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2020.08.11-12.37.09:184][990]LogInit: Display: PreExit Game.
+[2020.08.11-12.37.09:197][990]LogWorld: BeginTearingDown for /Game/GameLevel
+[2020.08.11-12.37.09:197][990]LogNet: World NetDriver shutdown IpNetDriver_2147482519 [GameNetDriver]
+[2020.08.11-12.37.09:197][990]LogNet: DestroyNamedNetDriver IpNetDriver_2147482519 [GameNetDriver]
+[2020.08.11-12.37.09:197][990]LogExit: GameNetDriver IpNetDriver_2147482519 shut down
+[2020.08.11-12.37.09:198][990]LogWorld: UWorld::CleanupWorld for GameLevel, bSessionEnded=true, bCleanupResources=true
+[2020.08.11-12.37.09:198][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.11-12.37.09:745][990]LogExit: Preparing to exit.
+[2020.08.11-12.37.09:745][990]LogMoviePlayer: Shutting down movie player
+[2020.08.11-12.37.09:748][990]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.11-12.37.09:748][990]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.08.11-12.37.09:749][990]LogExit: Game engine shut down
+[2020.08.11-12.37.09:751][990]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (00000146BFE90C00), frame # 2990
+[2020.08.11-12.37.09:752][990]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000146BF581000), frame # 2990
+[2020.08.11-12.37.09:752][990]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000146BFE60200), frame # 2990
+[2020.08.11-12.37.09:752][990]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000146BDCE2200), frame # 2990
+[2020.08.11-12.37.09:752][990]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001469986DD00), frame # 2990
+[2020.08.11-12.37.09:764][990]LogExit: Object subsystem successfully closed.
+[2020.08.11-12.37.09:772][990]LogModuleManager: Shutting down and abandoning module AutomationController (318)
+[2020.08.11-12.37.09:772][990]LogModuleManager: Shutting down and abandoning module AutomationWorker (316)
+[2020.08.11-12.37.09:772][990]LogModuleManager: Shutting down and abandoning module Voice (314)
+[2020.08.11-12.37.09:782][990]LogModuleManager: Shutting down and abandoning module AIModule (312)
+[2020.08.11-12.37.09:782][990]LogModuleManager: Shutting down and abandoning module GameplayDebugger (311)
+[2020.08.11-12.37.09:782][990]LogModuleManager: Shutting down and abandoning module NavigationSystem (309)
+[2020.08.11-12.37.09:782][990]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (306)
+[2020.08.11-12.37.09:782][990]LogModuleManager: Shutting down and abandoning module WebMMedia (304)
+[2020.08.11-12.37.09:782][990]LogModuleManager: Shutting down and abandoning module OculusMR (302)
+[2020.08.11-12.37.09:782][990]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (300)
+[2020.08.11-12.37.09:782][990]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (298)
+[2020.08.11-12.37.09:782][990]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (296)
+[2020.08.11-12.37.09:782][990]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (294)
+[2020.08.11-12.37.09:782][990]LogModuleManager: Shutting down and abandoning module CharacterAI (292)
+[2020.08.11-12.37.09:782][990]LogModuleManager: Shutting down and abandoning module PlanarCut (290)
+[2020.08.11-12.37.09:782][990]LogModuleManager: Shutting down and abandoning module SessionServices (288)
+[2020.08.11-12.37.09:782][990]LogModuleManager: Shutting down and abandoning module LiveCoding (286)
+[2020.08.11-12.37.09:782][990]LogModuleManager: Shutting down and abandoning module LevelSequence (284)
+[2020.08.11-12.37.09:782][990]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (282)
+[2020.08.11-12.37.09:782][990]LogModuleManager: Shutting down and abandoning module MovieScene (280)
+[2020.08.11-12.37.09:782][990]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (278)
+[2020.08.11-12.37.09:782][990]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (276)
+[2020.08.11-12.37.09:782][990]LogModuleManager: Shutting down and abandoning module AudioMixerCore (275)
+[2020.08.11-12.37.09:783][990]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (272)
+[2020.08.11-12.37.09:783][990]LogModuleManager: Shutting down and abandoning module ProfilerService (270)
+[2020.08.11-12.37.10:027][990]LogModuleManager: Shutting down and abandoning module TaskGraph (268)
+[2020.08.11-12.37.10:027][990]LogModuleManager: Shutting down and abandoning module Synthesis (266)
+[2020.08.11-12.37.10:027][990]LogModuleManager: Shutting down and abandoning module OculusInput (264)
+[2020.08.11-12.37.10:027][990]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (262)
+[2020.08.11-12.37.10:027][990]LogModuleManager: Shutting down and abandoning module GooglePAD (260)
+[2020.08.11-12.37.10:027][990]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (258)
+[2020.08.11-12.37.10:027][990]LogModuleManager: Shutting down and abandoning module CableComponent (256)
+[2020.08.11-12.37.10:027][990]LogModuleManager: Shutting down and abandoning module AudioCapture (254)
+[2020.08.11-12.37.10:027][990]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (253)
+[2020.08.11-12.37.10:027][990]LogModuleManager: Shutting down and abandoning module AssetTags (250)
+[2020.08.11-12.37.10:027][990]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (248)
+[2020.08.11-12.37.10:027][990]LogModuleManager: Shutting down and abandoning module AppleImageUtils (246)
+[2020.08.11-12.37.10:027][990]LogModuleManager: Shutting down and abandoning module AndroidPermission (244)
+[2020.08.11-12.37.10:027][990]LogModuleManager: Shutting down and abandoning module TemplateSequence (242)
+[2020.08.11-12.37.10:027][990]LogModuleManager: Shutting down and abandoning module MediaCompositing (240)
+[2020.08.11-12.37.10:027][990]LogModuleManager: Shutting down and abandoning module ImgMedia (238)
+[2020.08.11-12.37.10:027][990]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (236)
+[2020.08.11-12.37.10:027][990]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (234)
+[2020.08.11-12.37.10:027][990]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (232)
+[2020.08.11-12.37.10:027][990]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (230)
+[2020.08.11-12.37.10:027][990]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (228)
+[2020.08.11-12.37.10:027][990]LogModuleManager: Shutting down and abandoning module ChaosNiagara (226)
+[2020.08.11-12.37.10:027][990]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (224)
+[2020.08.11-12.37.10:027][990]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (222)
+[2020.08.11-12.37.10:027][990]LogModuleManager: Shutting down and abandoning module EditableMesh (220)
+[2020.08.11-12.37.10:027][990]LogModuleManager: Shutting down and abandoning module MeshSolverUtilities (218)
+[2020.08.11-12.37.10:027][990]LogModuleManager: Shutting down and abandoning module MeshConversion (216)
+[2020.08.11-12.37.10:027][990]LogModuleManager: Shutting down and abandoning module DynamicMesh (214)
+[2020.08.11-12.37.10:027][990]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (212)
+[2020.08.11-12.37.10:027][990]LogModuleManager: Shutting down and abandoning module GeometricObjects (210)
+[2020.08.11-12.37.10:027][990]LogModuleManager: Shutting down and abandoning module ChaosCloth (208)
+[2020.08.11-12.37.10:027][990]LogModuleManager: Shutting down and abandoning module BackChannel (206)
+[2020.08.11-12.37.10:027][990]LogModuleManager: Shutting down and abandoning module AutomationUtils (204)
+[2020.08.11-12.37.10:027][990]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (202)
+[2020.08.11-12.37.10:027][990]LogModuleManager: Shutting down and abandoning module GeometryCache (200)
+[2020.08.11-12.37.10:027][990]LogModuleManager: Shutting down and abandoning module UObjectPlugin (198)
+[2020.08.11-12.37.10:027][990]LogModuleManager: Shutting down and abandoning module NetworkSessionTest (196)
+[2020.08.11-12.37.10:027][990]LogModuleManager: Shutting down and abandoning module SoundFields (194)
+[2020.08.11-12.37.10:027][990]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (192)
+[2020.08.11-12.37.10:027][990]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (188)
+[2020.08.11-12.37.10:027][990]LogModuleManager: Shutting down and abandoning module ActorSequence (186)
+[2020.08.11-12.37.10:027][990]LogModuleManager: Shutting down and abandoning module UdpMessaging (184)
+[2020.08.11-12.37.10:027][990]LogModuleManager: Shutting down and abandoning module TcpMessaging (182)
+[2020.08.11-12.37.10:027][990]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (180)
+[2020.08.11-12.37.10:027][990]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (178)
+[2020.08.11-12.37.10:027][990]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (176)
+[2020.08.11-12.37.10:027][990]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (174)
+[2020.08.11-12.37.10:027][990]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (172)
+[2020.08.11-12.37.10:027][990]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (170)
+[2020.08.11-12.37.10:027][990]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (168)
+[2020.08.11-12.37.10:027][990]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (166)
+[2020.08.11-12.37.10:027][990]LogModuleManager: Shutting down and abandoning module MagicLeapController (164)
+[2020.08.11-12.37.10:027][990]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.08.11-12.37.10:028][990]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (162)
+[2020.08.11-12.37.10:028][990]LogModuleManager: Shutting down and abandoning module MagicLeapAR (160)
+[2020.08.11-12.37.10:028][990]LogModuleManager: Shutting down and abandoning module AugmentedReality (159)
+[2020.08.11-12.37.10:028][990]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (156)
+[2020.08.11-12.37.10:028][990]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (154)
+[2020.08.11-12.37.10:028][990]LogModuleManager: Shutting down and abandoning module Niagara (152)
+[2020.08.11-12.37.10:028][990]LogModuleManager: Shutting down and abandoning module SignalProcessing (151)
+[2020.08.11-12.37.10:028][990]LogModuleManager: Shutting down and abandoning module NiagaraCore (148)
+[2020.08.11-12.37.10:028][990]LogModuleManager: Shutting down and abandoning module FacialAnimation (146)
+[2020.08.11-12.37.10:028][990]LogModuleManager: Shutting down and abandoning module SignificanceManager (144)
+[2020.08.11-12.37.10:028][990]LogModuleManager: Shutting down and abandoning module AnimationSharing (142)
+[2020.08.11-12.37.10:028][990]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (140)
+[2020.08.11-12.37.10:028][990]LogModuleManager: Shutting down and abandoning module Paper2D (138)
+[2020.08.11-12.37.10:028][990]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (136)
+[2020.08.11-12.37.10:028][990]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (134)
+[2020.08.11-12.37.10:028][990]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (132)
+[2020.08.11-12.37.10:028][990]LogModuleManager: Shutting down and abandoning module PacketHandler (130)
+[2020.08.11-12.37.10:028][990]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (128)
+[2020.08.11-12.37.10:028][990]LogModuleManager: Shutting down and abandoning module MediaAssets (126)
+[2020.08.11-12.37.10:028][990]LogModuleManager: Shutting down and abandoning module Overlay (124)
+[2020.08.11-12.37.10:028][990]LogModuleManager: Shutting down and abandoning module FunctionalTesting (122)
+[2020.08.11-12.37.10:028][990]LogModuleManager: Shutting down and abandoning module MessageLog (120)
+[2020.08.11-12.37.10:028][990]LogModuleManager: Shutting down and abandoning module UMG (118)
+[2020.08.11-12.37.10:028][990]LogModuleManager: Shutting down and abandoning module SlateReflector (116)
+[2020.08.11-12.37.10:028][990]LogModuleManager: Shutting down and abandoning module Slate (114)
+[2020.08.11-12.37.10:028][990]LogModuleManager: Shutting down and abandoning module SlateCore (112)
+[2020.08.11-12.37.10:028][990]LogModuleManager: Shutting down and abandoning module MRMesh (110)
+[2020.08.11-12.37.10:028][990]LogModuleManager: Shutting down and abandoning module Messaging (108)
+[2020.08.11-12.37.10:028][990]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (106)
+[2020.08.11-12.37.10:028][990]LogModuleManager: Shutting down and abandoning module XAudio2 (104)
+[2020.08.11-12.37.10:028][990]LogModuleManager: Shutting down and abandoning module Networking (102)
+[2020.08.11-12.37.10:028][990]LogModuleManager: Shutting down and abandoning module Core (100)
+[2020.08.11-12.37.10:028][990]LogModuleManager: Shutting down and abandoning module ImageWrapper (96)
+[2020.08.11-12.37.10:028][990]LogModuleManager: Shutting down and abandoning module InputCore (94)
+[2020.08.11-12.37.10:028][990]LogModuleManager: Shutting down and abandoning module Settings (92)
+[2020.08.11-12.37.10:028][990]LogModuleManager: Shutting down and abandoning module PhysXCooking (90)
+[2020.08.11-12.37.10:028][990]LogModuleManager: Shutting down and abandoning module ChaosSolvers (88)
+[2020.08.11-12.37.10:028][990]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (87)
+[2020.08.11-12.37.10:028][990]LogModuleManager: Shutting down and abandoning module Chaos (84)
+[2020.08.11-12.37.10:028][990]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2020.08.11-12.37.10:028][990]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2020.08.11-12.37.10:028][990]LogModuleManager: Shutting down and abandoning module AVEncoder (80)
+[2020.08.11-12.37.10:028][990]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (76)
+[2020.08.11-12.37.10:028][990]LogModuleManager: Shutting down and abandoning module SteamVRInput (74)
+[2020.08.11-12.37.10:028][990]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2020.08.11-12.37.10:028][990]LogHMD: Freeing OpenVRDLLHandle.
+[2020.08.11-12.37.10:028][990]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2020.08.11-12.37.10:028][990]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2020.08.11-12.37.10:028][990]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2020.08.11-12.37.10:028][990]LogModuleManager: Shutting down and abandoning module WmfMedia (64)
+[2020.08.11-12.37.10:029][990]LogModuleManager: Shutting down and abandoning module Media (63)
+[2020.08.11-12.37.10:029][990]LogModuleManager: Shutting down and abandoning module MagicLeap (60)
+[2020.08.11-12.37.10:029][990]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (58)
+[2020.08.11-12.37.10:029][990]LogModuleManager: Shutting down and abandoning module NiagaraShader (56)
+[2020.08.11-12.37.10:029][990]LogModuleManager: Shutting down and abandoning module VariantManagerContent (54)
+[2020.08.11-12.37.10:029][990]LogModuleManager: Shutting down and abandoning module DatasmithContent (52)
+[2020.08.11-12.37.10:030][990]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2020.08.11-12.37.10:030][990]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (46)
+[2020.08.11-12.37.10:030][990]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2020.08.11-12.37.10:034][990]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2020.08.11-12.37.10:034][990]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (36)
+[2020.08.11-12.37.10:034][990]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (34)
+[2020.08.11-12.37.10:034][990]LogModuleManager: Shutting down and abandoning module PlatformCrypto (32)
+[2020.08.11-12.37.10:034][990]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.08.11-12.37.10:034][990]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.08.11-12.37.10:034][990]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.08.11-12.37.10:035][990]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.08.11-12.37.10:035][990]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.08.11-12.37.10:035][990]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.08.11-12.37.10:035][990]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.08.11-12.37.10:035][990]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.08.11-12.37.10:035][990]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.08.11-12.37.10:035][990]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.08.11-12.37.10:035][990]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.08.11-12.37.10:035][990]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.08.11-12.37.10:035][990]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.08.11-12.37.10:035][990]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.08.11-12.37.10:035][990]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.08.11-12.37.10:035][990]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2020.08.11-12.37.10:036][990]LogD3D11RHI: Shutdown
+[2020.08.11-12.37.10:036][990]LogD3D11RHI: CleanupD3DDevice
+[2020.08.11-12.37.10:039][990]LogExit: Exiting.
+[2020.08.11-12.37.10:045][990]Log file closed, 08/11/20 18:07:10
