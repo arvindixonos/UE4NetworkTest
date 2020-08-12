@@ -287,14 +287,14 @@ void UNWGameInstance::StartOnlineGame()
 	ULocalPlayer* const Player = GetFirstGamePlayer();
 
 	// Call our custom HostSession function. GameSessionName is a GameInstance variable
-	HostSession(Player->GetPreferredUniqueNetId().GetUniqueNetId(), GameSessionName, false, true, 40);
+	HostSession(Player->GetPreferredUniqueNetId().GetUniqueNetId(), GameSessionName, true, true, 40);
 }
 
 void UNWGameInstance::FindOnlineGames()
 {
 	ULocalPlayer* const Player = GetFirstGamePlayer();
 
-	FindSessions(Player->GetPreferredUniqueNetId().GetUniqueNetId(), false, true);
+	FindSessions(Player->GetPreferredUniqueNetId().GetUniqueNetId(), true, true);
 }
 
 void UNWGameInstance::JoinOnlineGame()
