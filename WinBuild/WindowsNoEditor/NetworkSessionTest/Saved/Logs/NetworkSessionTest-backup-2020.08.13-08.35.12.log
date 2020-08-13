@@ -1,0 +1,1626 @@
+﻿Log file open, 08/13/20 14:03:58
+LogPakFile: Display: Found Pak file ../../../NetworkSessionTest/Content/Paks/NetworkSessionTest-WindowsNoEditor.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../NetworkSessionTest/Content/Paks/NetworkSessionTest-WindowsNoEditor.pak.
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.046008
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +5:30, Platform Override: ''
+LogPluginManager: Mounting plugin OnlineSubsystemPython
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: Null
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [Null]
+LogInit: Build: ++UE4+Release-4.25-CL-13942748
+LogInit: Engine Version: 4.25.3-13942748+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 970
+LogInit: Compiled (64-bit): Jul 25 2020 02:13:35
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Users/Arvind/Desktop/Projects/NetworkSessionTest/WinBuild/WindowsNoEditor/NetworkSessionTest/Binaries/Win64/
+LogInit: Allocator: binned2
+LogInit: Installed Engine Build: 0
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 2097152 objects, including 1 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [../../../NetworkSessionTest/Saved/Config/WindowsNoEditor/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogStreaming: Display: Async Loading initialized: Event Driven Loader: true, Async Loading Thread: false, Async Post Load: true
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2020.08.13-08.33.58:456][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2020.08.13-08.33.58:456][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.08.13-08.33.58:456][  0]LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2020.08.13-08.33.58:456][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [../../../NetworkSessionTest/Saved/Config/WindowsNoEditor/Engine.ini]
+[2020.08.13-08.33.58:456][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.08.13-08.33.58:456][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [../../../NetworkSessionTest/Saved/Config/WindowsNoEditor/Engine.ini]
+[2020.08.13-08.33.58:456][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [../../../NetworkSessionTest/Saved/Config/WindowsNoEditor/Engine.ini]
+[2020.08.13-08.33.58:456][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.08.13-08.33.58:456][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.08.13-08.33.58:456][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.08.13-08.33.58:456][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.08.13-08.33.58:456][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.08.13-08.33.58:456][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.08.13-08.33.58:456][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.08.13-08.33.58:456][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.08.13-08.33.58:456][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.08.13-08.33.58:456][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.08.13-08.33.58:456][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.08.13-08.33.58:456][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.08.13-08.33.58:456][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.08.13-08.33.58:456][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.08.13-08.33.58:456][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [../../../NetworkSessionTest/Saved/Config/WindowsNoEditor/Engine.ini]
+[2020.08.13-08.33.58:456][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.08.13-08.33.58:456][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.08.13-08.33.58:456][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.08.13-08.33.58:456][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.08.13-08.33.58:456][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.08.13-08.33.58:456][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.08.13-08.33.58:456][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.08.13-08.33.58:456][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.08.13-08.33.58:456][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.08.13-08.33.58:456][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.08.13-08.33.58:456][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.08.13-08.33.58:456][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.08.13-08.33.58:456][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.08.13-08.33.58:456][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [../../../NetworkSessionTest/Saved/Config/WindowsNoEditor/Engine.ini]
+[2020.08.13-08.33.58:461][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../NetworkSessionTest/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.08.13-08.33.58:461][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.08.13-08.33.58:461][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.08.13-08.33.58:461][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../NetworkSessionTest/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.08.13-08.33.58:461][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.08.13-08.33.58:461][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../NetworkSessionTest/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.08.13-08.33.58:461][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.08.13-08.33.58:461][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.08.13-08.33.58:461][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.08.13-08.33.58:461][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.08.13-08.33.58:461][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.08.13-08.33.58:461][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.08.13-08.33.58:461][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.08.13-08.33.58:461][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.08.13-08.33.58:461][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.08.13-08.33.58:461][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.08.13-08.33.58:461][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.08.13-08.33.58:461][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.08.13-08.33.58:461][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.08.13-08.33.58:461][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.08.13-08.33.58:461][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.08.13-08.33.58:461][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.08.13-08.33.58:461][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.08.13-08.33.58:461][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.08.13-08.33.58:461][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../NetworkSessionTest/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.08.13-08.33.58:461][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.08.13-08.33.58:461][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.08.13-08.33.58:461][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.08.13-08.33.58:461][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.08.13-08.33.58:461][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.08.13-08.33.58:461][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.08.13-08.33.58:461][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.08.13-08.33.58:461][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.08.13-08.33.58:461][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.08.13-08.33.58:461][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.08.13-08.33.58:461][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.08.13-08.33.58:461][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.08.13-08.33.58:461][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.08.13-08.33.58:461][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.08.13-08.33.58:461][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.08.13-08.33.58:461][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.08.13-08.33.58:461][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.08.13-08.33.58:461][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.08.13-08.33.58:461][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.08.13-08.33.58:461][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.08.13-08.33.58:461][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.08.13-08.33.58:461][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.08.13-08.33.58:461][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.08.13-08.33.58:461][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.08.13-08.33.58:462][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.08.13-08.33.58:462][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.08.13-08.33.58:462][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.08.13-08.33.58:462][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.08.13-08.33.58:462][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.08.13-08.33.58:462][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.08.13-08.33.58:462][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../NetworkSessionTest/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.08.13-08.33.58:462][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.08.13-08.33.58:462][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.08.13-08.33.58:462][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.08.13-08.33.58:462][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.08.13-08.33.58:462][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.08.13-08.33.58:462][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.08.13-08.33.58:462][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.08.13-08.33.58:462][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.08.13-08.33.58:462][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.08.13-08.33.58:462][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../NetworkSessionTest/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.08.13-08.33.58:462][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.08.13-08.33.58:462][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.08.13-08.33.58:462][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.08.13-08.33.58:462][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.08.13-08.33.58:462][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.08.13-08.33.58:462][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.08.13-08.33.58:462][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.08.13-08.33.58:462][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.08.13-08.33.58:462][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.08.13-08.33.58:462][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.08.13-08.33.58:462][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.08.13-08.33.58:462][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.08.13-08.33.58:462][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.08.13-08.33.58:462][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.08.13-08.33.58:462][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.08.13-08.33.58:462][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.08.13-08.33.58:462][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.08.13-08.33.58:462][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.08.13-08.33.58:462][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.08.13-08.33.58:462][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.08.13-08.33.58:462][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.08.13-08.33.58:462][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.08.13-08.33.58:462][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.08.13-08.33.58:462][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.08.13-08.33.58:462][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.08.13-08.33.58:462][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.08.13-08.33.58:462][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2020.08.13-08.33.58:462][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../NetworkSessionTest/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.08.13-08.33.58:462][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.08.13-08.33.58:462][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.08.13-08.33.58:462][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [../../../NetworkSessionTest/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.08.13-08.33.58:462][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.08.13-08.33.58:462][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.08.13-08.33.58:462][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.08.13-08.33.58:462][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.08.13-08.33.58:462][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.08.13-08.33.58:462][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.08.13-08.33.58:462][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.08.13-08.33.58:462][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2020.08.13-08.33.58:462][  0]LogInit: Applying CVar settings loaded from the selected device profile: [WindowsNoEditor]
+[2020.08.13-08.33.58:462][  0]LogHAL: Display: Platform has ~ 16 GB [17097269248 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.08.13-08.33.58:462][  0]LogInit: Going up to parent DeviceProfile [Windows]
+[2020.08.13-08.33.58:462][  0]LogInit: Going up to parent DeviceProfile []
+[2020.08.13-08.33.58:462][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../NetworkSessionTest/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.08.13-08.33.58:462][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.08.13-08.33.58:462][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.08.13-08.33.58:462][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../NetworkSessionTest/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.08.13-08.33.58:462][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../NetworkSessionTest/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../NetworkSessionTest/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../NetworkSessionTest/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../NetworkSessionTest/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.08.13-08.33.58:463][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.08.13-08.33.58:464][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.08.13-08.33.58:464][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.08.13-08.33.58:464][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.08.13-08.33.58:464][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.08.13-08.33.58:464][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.08.13-08.33.58:464][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.08.13-08.33.58:464][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.08.13-08.33.58:464][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.08.13-08.33.58:464][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.08.13-08.33.58:464][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.08.13-08.33.58:464][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.08.13-08.33.58:464][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.08.13-08.33.58:464][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.08.13-08.33.58:464][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.08.13-08.33.58:464][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.08.13-08.33.58:464][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.08.13-08.33.58:464][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2020.08.13-08.33.58:464][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../NetworkSessionTest/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.08.13-08.33.58:464][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.08.13-08.33.58:464][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.08.13-08.33.58:464][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [../../../NetworkSessionTest/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.08.13-08.33.58:464][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.08.13-08.33.58:464][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.08.13-08.33.58:464][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.08.13-08.33.58:464][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.08.13-08.33.58:464][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.08.13-08.33.58:464][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.08.13-08.33.58:464][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.08.13-08.33.58:464][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.08.13-08.33.58:464][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.08.13-08.33.58:464][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.08.13-08.33.58:464][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.08.13-08.33.58:464][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [../../../NetworkSessionTest/Saved/Config/WindowsNoEditor/Engine.ini]
+[2020.08.13-08.33.58:464][  0]LogInit: Computer: DESKTOP-1H3RAB5
+[2020.08.13-08.33.58:464][  0]LogInit: User: Arvind
+[2020.08.13-08.33.58:464][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.08.13-08.33.58:464][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.08.13-08.33.58:464][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.08.13-08.33.58:464][  0]LogMemory: Platform Memory Stats for WindowsNoEditor
+[2020.08.13-08.33.58:464][  0]LogMemory: Process Physical Memory: 63.34 MB used, 63.34 MB peak
+[2020.08.13-08.33.58:464][  0]LogMemory: Process Virtual Memory: 71.78 MB used, 71.78 MB peak
+[2020.08.13-08.33.58:464][  0]LogMemory: Physical Memory: 7352.42 MB used,  8952.81 MB free, 16305.23 MB total
+[2020.08.13-08.33.58:464][  0]LogMemory: Virtual Memory: 4929.72 MB used,  134212800.00 MB free, 134217728.00 MB total
+[2020.08.13-08.33.58:469][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.08.13-08.33.58:486][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.08.13-08.33.58:486][  0]LogInit: Using OS detected language (en-US).
+[2020.08.13-08.33.58:486][  0]LogInit: Using OS detected locale (en-US).
+[2020.08.13-08.33.58:487][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.08.13-08.33.58:516][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.08.13-08.33.58:516][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.08.13-08.33.58:529][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2020.08.13-08.33.58:529][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.08.13-08.33.58:529][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.08.13-08.33.58:529][  0]LogD3D11RHI: D3D11 adapters:
+[2020.08.13-08.33.58:587][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2020.08.13-08.33.58:587][  0]LogD3D11RHI:       4043/0/8152 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.08.13-08.33.58:591][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.08.13-08.33.58:591][  0]LogD3D11RHI:       0/0/8152 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.08.13-08.33.58:591][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.08.13-08.33.58:598][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.08.13-08.33.58:598][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2020.08.13-08.33.58:598][  0]LogWindows: EnumDisplayDevices:
+[2020.08.13-08.33.58:598][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2020.08.13-08.33.58:599][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2020.08.13-08.33.58:599][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2020.08.13-08.33.58:599][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2020.08.13-08.33.58:599][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.08.13-08.33.58:599][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2020.08.13-08.33.58:599][  0]LogD3D11RHI:   Driver Version: 445.87 (internal:26.21.14.4587, unified:445.87)
+[2020.08.13-08.33.58:599][  0]LogD3D11RHI:      Driver Date: 4-3-2020
+[2020.08.13-08.33.58:599][  0]LogRHI: Texture pool is 2830 MB (70% of 4043 MB)
+[2020.08.13-08.33.58:641][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.08.13-08.33.58:641][  0]LogD3D11RHI: Async texture creation enabled
+[2020.08.13-08.33.58:641][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.08.13-08.33.58:657][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.08.13-08.33.58:658][  0]LogShaderLibrary: Display: Using ../../../NetworkSessionTest/Content/ShaderArchive-Global-PCD3D_SM5.ushaderbytecode for material shader code. Total 2058 unique shaders.
+[2020.08.13-08.33.58:658][  0]LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library Global
+[2020.08.13-08.33.58:659][  0]LogTemp: Warning: Clearing the OS Cache
+[2020.08.13-08.33.58:660][  0]LogPakFile: New pak file ../../../NetworkSessionTest/Content/Paks/NetworkSessionTest-WindowsNoEditor.pak added to pak precacher.
+[2020.08.13-08.33.58:679][  0]LogSlate: Using FreeType 2.10.0
+[2020.08.13-08.33.58:679][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.08.13-08.33.58:712][  0]LogShaderLibrary: Display: Using ../../../NetworkSessionTest/Content/ShaderArchive-NetworkSessionTest-PCD3D_SM5.ushaderbytecode for material shader code. Total 1242 unique shaders.
+[2020.08.13-08.33.58:712][  0]LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library NetworkSessionTest
+[2020.08.13-08.33.58:713][  0]LogRHI: Display: Opened pipeline cache after state change and enqueued 0 of 0 tasks for precompile.
+[2020.08.13-08.33.58:713][  0]LogRHI: Display: Failed to open default shader pipeline cache for NetworkSessionTest using shader platform 0.
+[2020.08.13-08.33.58:713][  0]LogInit: Using OS detected language (en-US).
+[2020.08.13-08.33.58:713][  0]LogInit: Using OS detected locale (en-US).
+[2020.08.13-08.33.58:713][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2020.08.13-08.33.58:713][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the locale.
+[2020.08.13-08.33.58:714][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2020.08.13-08.33.58:714][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2020.08.13-08.33.58:714][  0]LogTextLocalizationManager: Compacting localization data took   0.62ms
+[2020.08.13-08.33.58:718][  0]LogAssetRegistry: FAssetRegistry took 0.0028 seconds to start up
+[2020.08.13-08.33.58:799][  0]LogStreaming: Display: Flushing async loaders.
+[2020.08.13-08.33.58:799][  0]LogPackageLocalizationCache: Processed 18 localized package path(s) for 1 prioritized culture(s) in 0.000056 seconds
+[2020.08.13-08.33.58:802][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2020.08.13-08.33.58:814][  0]LogNetVersion: NetworkSessionTest 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 1969252174)
+[2020.08.13-08.33.58:837][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.08.13-08.33.58:837][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.08.13-08.33.58:870][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (000002B552822780), frame # 0
+[2020.08.13-08.33.58:870][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002B551F40EC0), frame # 0
+[2020.08.13-08.33.58:871][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002B552770200), frame # 0
+[2020.08.13-08.33.58:877][  0]LogMoviePlayer: Initializing movie player
+[2020.08.13-08.33.58:879][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.08.13-08.33.58:879][  0]LogOcInput: OculusInput pre-init called
+[2020.08.13-08.33.58:883][  0]LogUObjectArray: 14368 objects as part of root set at end of initial load.
+[2020.08.13-08.33.58:883][  0]LogUObjectArray: 2 objects are not in the root set, but can never be destroyed because they are in the DisregardForGC set.
+[2020.08.13-08.33.58:883][  0]LogUObjectAllocator: 2953224 out of 0 bytes used by permanent object pool.
+[2020.08.13-08.33.58:883][  0]LogUObjectArray: CloseDisregardForGC: 14368/14368 objects in disregard for GC pool
+[2020.08.13-08.33.58:883][  0]LogEngine: Initializing Engine...
+[2020.08.13-08.33.58:884][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2020.08.13-08.33.58:885][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.08.13-08.33.58:930][  0]LogPakFile: Precache HighWater 16MB
+
+[2020.08.13-08.33.58:930][  0]LogPakFile: Precache HighWater 32MB
+
+[2020.08.13-08.33.58:930][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.08.13-08.33.58:931][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.13-08.33.58:931][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.13-08.33.58:931][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.13-08.33.58:931][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.13-08.33.58:931][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.13-08.33.58:931][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.13-08.33.58:931][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.13-08.33.58:931][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.13-08.33.58:931][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.13-08.33.58:931][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.13-08.33.58:940][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.08.13-08.33.58:952][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.13-08.33.58:952][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.08.13-08.33.58:991][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.08.13-08.33.58:991][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.13-08.33.58:992][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.13-08.33.58:992][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.13-08.33.58:993][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.13-08.33.58:993][  0]LogInit: FAudioDevice initialized.
+[2020.08.13-08.33.58:994][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.08.13-08.33.58:994][  0]LogInit: Texture streaming: Enabled
+[2020.08.13-08.33.59:000][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.13-08.33.59:001][  0]LogInit: Display: Game Engine Initialized.
+[2020.08.13-08.33.59:002][  0]LogInit: Display: Starting Game.
+[2020.08.13-08.33.59:002][  0]LogNet: Browse: /Game/mainmenu?Name=Player
+[2020.08.13-08.33.59:002][  0]LogLoad: LoadMap: /Game/mainmenu?Name=Player
+[2020.08.13-08.33.59:002][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2020.08.13-08.33.59:003][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.08.13-08.33.59:003][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.13-08.33.59:009][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.08.13-08.33.59:018][  0]LogAIModule: Creating AISystem for world mainmenu
+[2020.08.13-08.33.59:018][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002B552779600), frame # 0
+[2020.08.13-08.33.59:018][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002B52C20F100), frame # 0
+[2020.08.13-08.33.59:018][  0]LogLoad: Game class is 'TPMode_C'
+[2020.08.13-08.33.59:022][  0]LogWorld: Bringing World /Game/mainmenu.mainmenu up for play (max tick rate 0) at 2020.08.13-14.03.59
+[2020.08.13-08.33.59:023][  0]LogWorld: Bringing up level for play took: 0.003264
+[2020.08.13-08.33.59:023][  0]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.08.13-08.33.59:111][  0]LogVoiceEncode: Display: EncoderVersion: libopus 1.1-beta
+[2020.08.13-08.33.59:111][  0]LogVoiceEngine: Error: OSS: StartLocalVoiceProcessing(): Device is currently owned by another user
+[2020.08.13-08.33.59:111][  0]LogOnlineVoice: OSS: StartLocalProcessing(0) returned 0xFFFFFFFF
+[2020.08.13-08.33.59:111][  0]LogOnlineVoice: OSS: Starting networked voice for user: 0
+[2020.08.13-08.33.59:112][  0]LogUMG: Display: Widget Class mainmenu_C - Loaded Fast Template.
+[2020.08.13-08.33.59:113][  0]LogLoad: Took 0.111566 seconds to LoadMap(/Game/mainmenu)
+[2020.08.13-08.33.59:114][  0]LogSlate: Took 0.000304 seconds to synchronously load lazily loaded font '../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont' (160K)
+[2020.08.13-08.33.59:136][  0]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 1 (Frame:1).
+[2020.08.13-08.33.59:136][  0]LogRHI: Display: ShaderPipelineCache: Paused Batching. 1
+[2020.08.13-08.33.59:136][  0]LogRHI: Display: ShaderPipelineCache: Resumed Batching. 0
+[2020.08.13-08.33.59:136][  0]LogRHI: Display: ShaderPipelineCache: Batching Resumed.
+[2020.08.13-08.33.59:136][  0]LogLoad: (Engine Initialization) Total time: 0.89 seconds
+[2020.08.13-08.33.59:159][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.08.13-08.33.59:162][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.13-08.33.59:362][  0]LogSlate: Slate font cache was flushed
+[2020.08.13-08.33.59:364][  1]LogSlate: Took 0.000106 seconds to synchronously load lazily loaded font '../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont' (160K)
+[2020.08.13-08.34.16:317][634]LogSlate: Took 0.000253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.08.13-08.34.44:722][386]LogOnlineSession: Warning: OSS: Can't destroy a null online session (GameSession)
+[2020.08.13-08.34.44:726][386]LogVoiceEngine: Error: OSS: StartLocalVoiceProcessing(): Device is currently owned by another user
+[2020.08.13-08.34.44:726][386]LogOnlineVoice: OSS: StartLocalProcessing(0) returned 0xFFFFFFFF
+[2020.08.13-08.34.44:726][386]LogOnlineVoice: OSS: Starting networked voice for user: 0
+[2020.08.13-08.34.44:741][386]LogOnlineVoice: OSS: RegisterLocalTalker(0) returned 0x00000000
+[2020.08.13-08.34.44:741][386]LogOnlineVoice: OSS: Invalid user specified in RegisterLocalTalker(1)
+[2020.08.13-08.34.44:741][386]LogOnlineVoice: OSS: Invalid user specified in RegisterLocalTalker(2)
+[2020.08.13-08.34.44:741][386]LogOnlineVoice: OSS: Invalid user specified in RegisterLocalTalker(3)
+[2020.08.13-08.34.44:741][386]LogNet: Browse: /Game/GameLevel?listen
+[2020.08.13-08.34.44:741][386]LogLoad: LoadMap: /Game/GameLevel?listen
+[2020.08.13-08.34.44:741][386]LogWorld: BeginTearingDown for /Game/mainmenu
+[2020.08.13-08.34.44:743][386]LogWorld: UWorld::CleanupWorld for mainmenu, bSessionEnded=true, bCleanupResources=true
+[2020.08.13-08.34.44:743][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.13-08.34.44:775][386]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002B552779600), frame # 12386
+[2020.08.13-08.34.44:775][386]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002B52C20F100), frame # 12386
+[2020.08.13-08.34.44:777][386]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2020.08.13-08.34.44:777][386]LogStreaming: Display: Flushing async loaders.
+[2020.08.13-08.34.44:795][386]LogAIModule: Creating AISystem for world GameLevel
+[2020.08.13-08.34.44:795][386]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002B554CBD000), frame # 12386
+[2020.08.13-08.34.44:795][386]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002B52C20E0C0), frame # 12386
+[2020.08.13-08.34.44:796][386]LogLoad: Game class is 'TPMode_C'
+[2020.08.13-08.34.44:797][386]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2020.08.13-08.34.44:797][386]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2020.08.13-08.34.44:797][386]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2020.08.13-08.34.44:797][386]LogNet: Created socket for bind address: 0.0.0.0 on port 7777
+[2020.08.13-08.34.44:797][386]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.08.13-08.34.44:797][386]LogNet: GameNetDriver IpNetDriver_2147482517 IpNetDriver listening on port 7777
+[2020.08.13-08.34.44:799][386]LogWorld: Bringing World /Game/GameLevel.GameLevel up for play (max tick rate 0) at 2020.08.13-14.04.44
+[2020.08.13-08.34.44:799][386]LogWorld: Bringing up level for play took: 0.001449
+[2020.08.13-08.34.44:802][386]LogOnlineVoice: OSS: StartLocalProcessing(0) returned 0x00000000
+[2020.08.13-08.34.44:802][386]LogOnlineVoice: OSS: Starting networked voice for user: 0
+[2020.08.13-08.34.44:803][386]LogLoad: Took 0.062394 seconds to LoadMap(/Game/GameLevel)
+[2020.08.13-08.34.44:922][388]LogVoiceCapture: Warning: Resetting UncompressedAudioBuffer.
+[2020.08.13-08.34.44:946][389]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 57, LastCall: 0.000 ms
+[2020.08.13-08.34.44:946][389]LogOnlineVoice: OSS: Trigger Local 0 TALKING
+[2020.08.13-08.34.44:959][391]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 11.762 ms
+[2020.08.13-08.34.44:997][397]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 38.277 ms
+[2020.08.13-08.34.45:024][401]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 26.501 ms
+[2020.08.13-08.34.45:050][405]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 26.435 ms
+[2020.08.13-08.34.45:100][413]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 50.365 ms
+[2020.08.13-08.34.45:124][417]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 23.874 ms
+[2020.08.13-08.34.45:149][421]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 24.367 ms
+[2020.08.13-08.34.45:183][427]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 34.370 ms
+[2020.08.13-08.34.45:216][433]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 33.783 ms
+[2020.08.13-08.34.45:238][437]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 21.677 ms
+[2020.08.13-08.34.45:271][443]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.918 ms
+[2020.08.13-08.34.45:306][449]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 34.559 ms
+[2020.08.13-08.34.45:337][455]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.978 ms
+[2020.08.13-08.34.45:372][461]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 33.990 ms
+[2020.08.13-08.34.45:405][467]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 32.848 ms
+[2020.08.13-08.34.45:438][473]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.808 ms
+[2020.08.13-08.34.45:458][477]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 20.602 ms
+[2020.08.13-08.34.45:490][483]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.187 ms
+[2020.08.13-08.34.45:522][489]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 32.140 ms
+[2020.08.13-08.34.45:554][495]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.940 ms
+[2020.08.13-08.34.45:596][503]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 42.666 ms
+[2020.08.13-08.34.45:628][509]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.236 ms
+[2020.08.13-08.34.45:650][513]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 21.906 ms
+[2020.08.13-08.34.45:682][519]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 32.564 ms
+[2020.08.13-08.34.45:714][525]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.051 ms
+[2020.08.13-08.34.45:746][531]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.946 ms
+[2020.08.13-08.34.45:769][535]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 22.744 ms
+[2020.08.13-08.34.45:802][541]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.107 ms
+[2020.08.13-08.34.45:844][549]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 42.800 ms
+[2020.08.13-08.34.45:876][555]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.671 ms
+[2020.08.13-08.34.45:907][561]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.395 ms
+[2020.08.13-08.34.45:928][565]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 21.340 ms
+[2020.08.13-08.34.45:960][571]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 30.918 ms
+[2020.08.13-08.34.45:991][577]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.745 ms
+[2020.08.13-08.34.46:024][583]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 32.752 ms
+[2020.08.13-08.34.46:056][589]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.634 ms
+[2020.08.13-08.34.46:098][597]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 42.705 ms
+[2020.08.13-08.34.46:119][601]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 20.619 ms
+[2020.08.13-08.34.46:151][607]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.649 ms
+[2020.08.13-08.34.46:183][613]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 32.670 ms
+[2020.08.13-08.34.46:213][619]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 30.097 ms
+[2020.08.13-08.34.46:245][625]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 32.440 ms
+[2020.08.13-08.34.46:268][629]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 21.717 ms
+[2020.08.13-08.34.46:299][635]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.619 ms
+[2020.08.13-08.34.46:341][643]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 42.267 ms
+[2020.08.13-08.34.46:375][649]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.916 ms
+[2020.08.13-08.34.46:406][655]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.548 ms
+[2020.08.13-08.34.46:438][661]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.249 ms
+[2020.08.13-08.34.46:459][665]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 20.333 ms
+[2020.08.13-08.34.46:490][671]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.903 ms
+[2020.08.13-08.34.46:523][677]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 32.015 ms
+[2020.08.13-08.34.46:554][683]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.123 ms
+[2020.08.13-08.34.46:597][691]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 42.251 ms
+[2020.08.13-08.34.46:618][695]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 20.538 ms
+[2020.08.13-08.34.46:648][701]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.430 ms
+[2020.08.13-08.34.46:680][707]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.505 ms
+[2020.08.13-08.34.46:713][713]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.437 ms
+[2020.08.13-08.34.46:745][719]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.806 ms
+[2020.08.13-08.34.46:776][725]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.567 ms
+[2020.08.13-08.34.46:797][729]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 21.271 ms
+[2020.08.13-08.34.46:839][737]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 42.295 ms
+[2020.08.13-08.34.46:872][743]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.668 ms
+[2020.08.13-08.34.46:903][749]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.525 ms
+[2020.08.13-08.34.46:935][755]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.613 ms
+[2020.08.13-08.34.46:968][761]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 32.058 ms
+[2020.08.13-08.34.46:988][765]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 20.633 ms
+[2020.08.13-08.34.47:020][771]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.821 ms
+[2020.08.13-08.34.47:053][777]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.872 ms
+[2020.08.13-08.34.47:095][785]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 43.159 ms
+[2020.08.13-08.34.47:127][791]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 30.506 ms
+[2020.08.13-08.34.47:149][795]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 21.971 ms
+[2020.08.13-08.34.47:181][801]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 32.039 ms
+[2020.08.13-08.34.47:213][807]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.907 ms
+[2020.08.13-08.34.47:245][813]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.699 ms
+[2020.08.13-08.34.47:276][819]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.281 ms
+[2020.08.13-08.34.47:297][823]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 21.294 ms
+[2020.08.13-08.34.47:340][831]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 42.323 ms
+[2020.08.13-08.34.47:372][837]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.548 ms
+[2020.08.13-08.34.47:405][843]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 32.031 ms
+[2020.08.13-08.34.47:436][849]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.675 ms
+[2020.08.13-08.34.47:457][853]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 20.757 ms
+[2020.08.13-08.34.47:489][859]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.782 ms
+[2020.08.13-08.34.47:521][865]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 32.065 ms
+[2020.08.13-08.34.47:552][871]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.724 ms
+[2020.08.13-08.34.47:596][879]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 43.619 ms
+[2020.08.13-08.34.47:617][883]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 20.685 ms
+[2020.08.13-08.34.47:648][889]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.434 ms
+[2020.08.13-08.34.47:680][895]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.467 ms
+[2020.08.13-08.34.47:712][901]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.203 ms
+[2020.08.13-08.34.47:744][907]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.930 ms
+[2020.08.13-08.34.47:775][913]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.369 ms
+[2020.08.13-08.34.47:807][919]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.992 ms
+[2020.08.13-08.34.47:838][925]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.078 ms
+[2020.08.13-08.34.47:870][931]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.062 ms
+[2020.08.13-08.34.47:901][937]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 30.986 ms
+[2020.08.13-08.34.47:932][943]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.527 ms
+[2020.08.13-08.34.47:964][949]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.467 ms
+[2020.08.13-08.34.47:996][955]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.821 ms
+[2020.08.13-08.34.48:027][961]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.472 ms
+[2020.08.13-08.34.48:049][965]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 21.478 ms
+[2020.08.13-08.34.48:091][973]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 41.617 ms
+[2020.08.13-08.34.48:122][979]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.604 ms
+[2020.08.13-08.34.48:154][985]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.867 ms
+[2020.08.13-08.34.48:185][991]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.552 ms
+[2020.08.13-08.34.48:216][997]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.280 ms
+[2020.08.13-08.34.48:238][  1]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 20.904 ms
+[2020.08.13-08.34.48:269][  7]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.430 ms
+[2020.08.13-08.34.48:300][ 13]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.696 ms
+[2020.08.13-08.34.48:343][ 21]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 42.017 ms
+[2020.08.13-08.34.48:375][ 27]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.518 ms
+[2020.08.13-08.34.48:408][ 33]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.740 ms
+[2020.08.13-08.34.48:428][ 37]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 20.480 ms
+[2020.08.13-08.34.48:460][ 43]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.514 ms
+[2020.08.13-08.34.48:491][ 49]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.789 ms
+[2020.08.13-08.34.48:522][ 55]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.211 ms
+[2020.08.13-08.34.48:553][ 61]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.423 ms
+[2020.08.13-08.34.48:596][ 69]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 43.073 ms
+[2020.08.13-08.34.48:618][ 73]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 21.156 ms
+[2020.08.13-08.34.48:649][ 79]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.681 ms
+[2020.08.13-08.34.48:681][ 85]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.663 ms
+[2020.08.13-08.34.48:715][ 91]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 33.883 ms
+[2020.08.13-08.34.48:746][ 97]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.495 ms
+[2020.08.13-08.34.48:768][101]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 21.766 ms
+[2020.08.13-08.34.48:799][107]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.008 ms
+[2020.08.13-08.34.48:841][115]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 42.184 ms
+[2020.08.13-08.34.48:873][121]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.367 ms
+[2020.08.13-08.34.48:905][127]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.372 ms
+[2020.08.13-08.34.48:936][133]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.853 ms
+[2020.08.13-08.34.48:957][137]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 20.752 ms
+[2020.08.13-08.34.48:990][143]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.393 ms
+[2020.08.13-08.34.49:022][149]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 32.679 ms
+[2020.08.13-08.34.49:055][155]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.950 ms
+[2020.08.13-08.34.49:097][163]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 42.442 ms
+[2020.08.13-08.34.49:117][167]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 20.465 ms
+[2020.08.13-08.34.49:149][173]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.722 ms
+[2020.08.13-08.34.49:182][179]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 32.288 ms
+[2020.08.13-08.34.49:212][185]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 30.688 ms
+[2020.08.13-08.34.49:244][191]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.509 ms
+[2020.08.13-08.34.49:275][197]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.306 ms
+[2020.08.13-08.34.49:307][203]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.874 ms
+[2020.08.13-08.34.49:338][209]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 30.880 ms
+[2020.08.13-08.34.49:370][215]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.567 ms
+[2020.08.13-08.34.49:402][221]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 32.209 ms
+[2020.08.13-08.34.49:433][227]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.069 ms
+[2020.08.13-08.34.49:466][233]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.284 ms
+[2020.08.13-08.34.49:497][239]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.053 ms
+[2020.08.13-08.34.49:518][243]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 20.420 ms
+[2020.08.13-08.34.49:551][249]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 33.037 ms
+[2020.08.13-08.34.49:593][257]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 41.995 ms
+[2020.08.13-08.34.49:624][263]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 30.758 ms
+[2020.08.13-08.34.49:655][269]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.845 ms
+[2020.08.13-08.34.49:687][275]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.670 ms
+[2020.08.13-08.34.49:709][279]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 22.255 ms
+[2020.08.13-08.34.49:742][285]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 32.657 ms
+[2020.08.13-08.34.49:773][291]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.955 ms
+[2020.08.13-08.34.49:805][297]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.492 ms
+[2020.08.13-08.34.49:848][305]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 42.086 ms
+[2020.08.13-08.34.49:869][309]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 21.251 ms
+[2020.08.13-08.34.49:902][315]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 33.392 ms
+[2020.08.13-08.34.49:932][321]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 30.394 ms
+[2020.08.13-08.34.49:965][327]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 32.122 ms
+[2020.08.13-08.34.49:997][333]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.800 ms
+[2020.08.13-08.34.50:018][337]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 21.732 ms
+[2020.08.13-08.34.50:051][343]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 33.143 ms
+[2020.08.13-08.34.50:094][351]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 42.150 ms
+[2020.08.13-08.34.50:126][357]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 32.183 ms
+[2020.08.13-08.34.50:148][361]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 21.693 ms
+[2020.08.13-08.34.50:179][367]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.995 ms
+[2020.08.13-08.34.50:211][373]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.717 ms
+[2020.08.13-08.34.50:243][379]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.612 ms
+[2020.08.13-08.34.50:274][385]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.251 ms
+[2020.08.13-08.34.50:305][391]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.695 ms
+[2020.08.13-08.34.50:337][397]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.050 ms
+[2020.08.13-08.34.50:368][403]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.604 ms
+[2020.08.13-08.34.50:401][409]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 33.368 ms
+[2020.08.13-08.34.50:435][415]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.979 ms
+[2020.08.13-08.34.50:465][421]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 30.433 ms
+[2020.08.13-08.34.50:497][427]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.417 ms
+[2020.08.13-08.34.50:517][431]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 20.226 ms
+[2020.08.13-08.34.50:549][437]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.397 ms
+[2020.08.13-08.34.50:590][445]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 40.546 ms
+[2020.08.13-08.34.50:622][451]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 32.251 ms
+[2020.08.13-08.34.50:653][457]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.550 ms
+[2020.08.13-08.34.50:685][463]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.468 ms
+[2020.08.13-08.34.50:717][469]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.552 ms
+[2020.08.13-08.34.50:738][473]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 22.060 ms
+[2020.08.13-08.34.50:771][479]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.059 ms
+[2020.08.13-08.34.50:802][485]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.480 ms
+[2020.08.13-08.34.50:844][493]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 42.278 ms
+[2020.08.13-08.34.50:876][499]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.745 ms
+[2020.08.13-08.34.50:897][503]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 21.130 ms
+[2020.08.13-08.34.50:930][509]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.144 ms
+[2020.08.13-08.34.50:961][515]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 32.429 ms
+[2020.08.13-08.34.50:994][521]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.969 ms
+[2020.08.13-08.34.51:025][527]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.755 ms
+[2020.08.13-08.34.51:057][533]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.868 ms
+[2020.08.13-08.34.51:090][539]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.981 ms
+[2020.08.13-08.34.51:121][545]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.750 ms
+[2020.08.13-08.34.51:153][551]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.797 ms
+[2020.08.13-08.34.51:184][557]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.735 ms
+[2020.08.13-08.34.51:217][563]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.163 ms
+[2020.08.13-08.34.51:238][567]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 20.865 ms
+[2020.08.13-08.34.51:270][573]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.171 ms
+[2020.08.13-08.34.51:301][579]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 30.779 ms
+[2020.08.13-08.34.51:343][587]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 42.353 ms
+[2020.08.13-08.34.51:375][593]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.770 ms
+[2020.08.13-08.34.51:406][599]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.893 ms
+[2020.08.13-08.34.51:428][603]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 21.674 ms
+[2020.08.13-08.34.51:461][609]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 32.277 ms
+[2020.08.13-08.34.51:493][615]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.801 ms
+[2020.08.13-08.34.51:524][621]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.619 ms
+[2020.08.13-08.34.51:556][627]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.791 ms
+[2020.08.13-08.34.51:598][635]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 41.957 ms
+[2020.08.13-08.34.51:619][639]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 20.856 ms
+[2020.08.13-08.34.51:650][645]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.585 ms
+[2020.08.13-08.34.51:681][651]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.171 ms
+[2020.08.13-08.34.51:713][657]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.869 ms
+[2020.08.13-08.34.51:745][663]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.332 ms
+[2020.08.13-08.34.51:777][669]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.251 ms
+[2020.08.13-08.34.51:800][673]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 22.829 ms
+[2020.08.13-08.34.51:840][681]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 41.045 ms
+[2020.08.13-08.34.51:872][687]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.414 ms
+[2020.08.13-08.34.51:903][693]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.401 ms
+[2020.08.13-08.34.51:935][699]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.057 ms
+[2020.08.13-08.34.51:966][705]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 32.007 ms
+[2020.08.13-08.34.51:987][709]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 20.681 ms
+[2020.08.13-08.34.52:021][715]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 33.850 ms
+[2020.08.13-08.34.52:051][721]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 30.183 ms
+[2020.08.13-08.34.52:094][729]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 42.610 ms
+[2020.08.13-08.34.52:126][735]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.468 ms
+[2020.08.13-08.34.52:148][739]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 21.812 ms
+[2020.08.13-08.34.52:180][745]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 32.312 ms
+[2020.08.13-08.34.52:211][751]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.291 ms
+[2020.08.13-08.34.52:242][757]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.779 ms
+[2020.08.13-08.34.52:274][763]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.659 ms
+[2020.08.13-08.34.52:306][769]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.223 ms
+[2020.08.13-08.34.52:338][775]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.757 ms
+[2020.08.13-08.34.52:369][781]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.483 ms
+[2020.08.13-08.34.52:402][787]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.898 ms
+[2020.08.13-08.34.52:434][793]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.308 ms
+[2020.08.13-08.34.52:465][799]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.469 ms
+[2020.08.13-08.34.52:497][805]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.723 ms
+[2020.08.13-08.34.52:517][809]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 20.550 ms
+[2020.08.13-08.34.52:549][815]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.643 ms
+[2020.08.13-08.34.52:591][823]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 41.406 ms
+[2020.08.13-08.34.52:622][829]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.534 ms
+[2020.08.13-08.34.52:653][835]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.468 ms
+[2020.08.13-08.34.52:684][841]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.213 ms
+[2020.08.13-08.34.52:716][847]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.763 ms
+[2020.08.13-08.34.52:738][851]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 22.181 ms
+[2020.08.13-08.34.52:771][857]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.522 ms
+[2020.08.13-08.34.52:803][863]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.276 ms
+[2020.08.13-08.34.52:845][871]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 41.930 ms
+[2020.08.13-08.34.52:877][877]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.934 ms
+[2020.08.13-08.34.52:898][881]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 20.998 ms
+[2020.08.13-08.34.52:930][887]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.688 ms
+[2020.08.13-08.34.52:961][893]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.553 ms
+[2020.08.13-08.34.52:992][899]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 30.693 ms
+[2020.08.13-08.34.53:024][905]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.705 ms
+[2020.08.13-08.34.53:056][911]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.605 ms
+[2020.08.13-08.34.53:088][917]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.763 ms
+[2020.08.13-08.34.53:121][923]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 32.381 ms
+[2020.08.13-08.34.53:152][929]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 30.734 ms
+[2020.08.13-08.34.53:183][935]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.584 ms
+[2020.08.13-08.34.53:216][941]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.627 ms
+[2020.08.13-08.34.53:247][947]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.202 ms
+[2020.08.13-08.34.53:270][951]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 22.434 ms
+[2020.08.13-08.34.53:300][957]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 30.468 ms
+[2020.08.13-08.34.53:342][965]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 41.951 ms
+[2020.08.13-08.34.53:373][971]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.768 ms
+[2020.08.13-08.34.53:406][977]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.859 ms
+[2020.08.13-08.34.53:427][981]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 22.130 ms
+[2020.08.13-08.34.53:458][987]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 30.509 ms
+[2020.08.13-08.34.53:492][993]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 33.611 ms
+[2020.08.13-08.34.53:522][999]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 30.231 ms
+[2020.08.13-08.34.53:554][  5]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.516 ms
+[2020.08.13-08.34.53:596][ 13]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 42.381 ms
+[2020.08.13-08.34.53:627][ 19]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 30.413 ms
+[2020.08.13-08.34.53:648][ 23]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 21.594 ms
+[2020.08.13-08.34.53:681][ 29]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 32.856 ms
+[2020.08.13-08.34.53:711][ 35]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 30.122 ms
+[2020.08.13-08.34.53:743][ 41]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.857 ms
+[2020.08.13-08.34.53:775][ 47]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.455 ms
+[2020.08.13-08.34.53:807][ 53]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.320 ms
+[2020.08.13-08.34.53:839][ 59]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.657 ms
+[2020.08.13-08.34.53:871][ 65]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.578 ms
+[2020.08.13-08.34.53:903][ 71]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.921 ms
+[2020.08.13-08.34.53:935][ 77]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.721 ms
+[2020.08.13-08.34.53:966][ 83]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.971 ms
+[2020.08.13-08.34.53:998][ 89]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.661 ms
+[2020.08.13-08.34.54:019][ 93]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 21.204 ms
+[2020.08.13-08.34.54:051][ 99]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.454 ms
+[2020.08.13-08.34.54:093][107]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 42.725 ms
+[2020.08.13-08.34.54:125][113]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.403 ms
+[2020.08.13-08.34.54:157][119]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.998 ms
+[2020.08.13-08.34.54:178][123]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 21.197 ms
+[2020.08.13-08.34.54:210][129]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.863 ms
+[2020.08.13-08.34.54:242][135]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.347 ms
+[2020.08.13-08.34.54:273][141]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.497 ms
+[2020.08.13-08.34.54:306][147]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.329 ms
+[2020.08.13-08.34.54:347][155]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 41.454 ms
+[2020.08.13-08.34.54:369][159]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 21.200 ms
+[2020.08.13-08.34.54:400][165]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.628 ms
+[2020.08.13-08.34.54:432][171]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.849 ms
+[2020.08.13-08.34.54:465][177]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.216 ms
+[2020.08.13-08.34.54:495][183]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 30.676 ms
+[2020.08.13-08.34.54:527][189]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.620 ms
+[2020.08.13-08.34.54:548][193]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 21.688 ms
+[2020.08.13-08.34.54:591][201]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 42.252 ms
+[2020.08.13-08.34.54:623][207]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 32.220 ms
+[2020.08.13-08.34.54:656][213]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.942 ms
+[2020.08.13-08.34.54:686][219]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 30.135 ms
+[2020.08.13-08.34.54:717][225]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.366 ms
+[2020.08.13-08.34.54:738][229]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 21.128 ms
+[2020.08.13-08.34.54:771][235]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.453 ms
+[2020.08.13-08.34.54:802][241]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.276 ms
+[2020.08.13-08.34.54:844][249]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 42.030 ms
+[2020.08.13-08.34.54:876][255]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.575 ms
+[2020.08.13-08.34.54:897][259]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 21.448 ms
+[2020.08.13-08.34.54:929][265]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.669 ms
+[2020.08.13-08.34.54:960][271]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 30.594 ms
+[2020.08.13-08.34.54:991][277]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.913 ms
+[2020.08.13-08.34.55:024][283]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.792 ms
+[2020.08.13-08.34.55:055][289]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.723 ms
+[2020.08.13-08.34.55:087][295]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.276 ms
+[2020.08.13-08.34.55:121][301]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 33.615 ms
+[2020.08.13-08.34.55:152][307]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 30.869 ms
+[2020.08.13-08.34.55:184][313]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 32.230 ms
+[2020.08.13-08.34.55:216][319]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.311 ms
+[2020.08.13-08.34.55:248][325]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.687 ms
+[2020.08.13-08.34.55:269][329]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 20.547 ms
+[2020.08.13-08.34.55:300][335]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.097 ms
+[2020.08.13-08.34.55:342][343]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 42.233 ms
+[2020.08.13-08.34.55:372][349]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.001 ms
+[2020.08.13-08.34.55:404][355]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.147 ms
+[2020.08.13-08.34.55:437][361]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.507 ms
+[2020.08.13-08.34.55:468][367]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.638 ms
+[2020.08.13-08.34.55:488][371]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 20.679 ms
+[2020.08.13-08.34.55:522][377]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 33.018 ms
+[2020.08.13-08.34.55:553][383]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.033 ms
+[2020.08.13-08.34.55:596][391]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 42.879 ms
+[2020.08.13-08.34.55:627][397]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 30.962 ms
+[2020.08.13-08.34.55:648][401]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 21.476 ms
+[2020.08.13-08.34.55:681][407]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 32.859 ms
+[2020.08.13-08.34.55:712][413]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.494 ms
+[2020.08.13-08.34.55:744][419]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.487 ms
+[2020.08.13-08.34.55:777][425]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.505 ms
+[2020.08.13-08.34.55:799][429]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 21.414 ms
+[2020.08.13-08.34.55:841][437]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 42.292 ms
+[2020.08.13-08.34.55:873][443]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.807 ms
+[2020.08.13-08.34.55:904][449]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.252 ms
+[2020.08.13-08.34.55:936][455]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.354 ms
+[2020.08.13-08.34.55:968][461]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.770 ms
+[2020.08.13-08.34.55:988][465]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 20.918 ms
+[2020.08.13-08.34.56:021][471]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 32.981 ms
+[2020.08.13-08.34.56:053][477]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.264 ms
+[2020.08.13-08.34.56:094][485]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 41.530 ms
+[2020.08.13-08.34.56:127][491]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 33.027 ms
+[2020.08.13-08.34.56:148][495]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 21.504 ms
+[2020.08.13-08.34.56:181][501]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 32.520 ms
+[2020.08.13-08.34.56:212][507]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.172 ms
+[2020.08.13-08.34.56:244][513]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.806 ms
+[2020.08.13-08.34.56:276][519]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.628 ms
+[2020.08.13-08.34.56:307][525]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.806 ms
+[2020.08.13-08.34.56:339][531]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.694 ms
+[2020.08.13-08.34.56:371][537]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.104 ms
+[2020.08.13-08.34.56:402][543]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 32.078 ms
+[2020.08.13-08.34.56:434][549]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.566 ms
+[2020.08.13-08.34.56:466][555]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 32.555 ms
+[2020.08.13-08.34.56:488][559]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 21.754 ms
+[2020.08.13-08.34.56:518][565]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 30.772 ms
+[2020.08.13-08.34.56:552][571]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.685 ms
+[2020.08.13-08.34.56:593][579]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 41.163 ms
+[2020.08.13-08.34.56:625][585]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 32.062 ms
+[2020.08.13-08.34.56:657][591]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.766 ms
+[2020.08.13-08.34.56:678][595]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 21.358 ms
+[2020.08.13-08.34.56:710][601]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.928 ms
+[2020.08.13-08.34.56:742][607]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 32.118 ms
+[2020.08.13-08.34.56:774][613]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.134 ms
+[2020.08.13-08.34.56:806][619]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.454 ms
+[2020.08.13-08.34.56:837][625]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.156 ms
+[2020.08.13-08.34.56:869][631]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.874 ms
+[2020.08.13-08.34.56:900][637]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.553 ms
+[2020.08.13-08.34.56:933][643]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.485 ms
+[2020.08.13-08.34.56:965][649]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.833 ms
+[2020.08.13-08.34.56:996][655]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.701 ms
+[2020.08.13-08.34.57:027][661]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 30.588 ms
+[2020.08.13-08.34.57:049][665]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 22.333 ms
+[2020.08.13-08.34.57:091][673]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 41.187 ms
+[2020.08.13-08.34.57:123][679]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 32.750 ms
+[2020.08.13-08.34.57:155][685]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.631 ms
+[2020.08.13-08.34.57:187][691]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.577 ms
+[2020.08.13-08.34.57:208][695]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 21.517 ms
+[2020.08.13-08.34.57:238][701]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.285 ms
+[2020.08.13-08.34.57:270][707]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.123 ms
+[2020.08.13-08.34.57:301][713]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.638 ms
+[2020.08.13-08.34.57:343][721]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 41.975 ms
+[2020.08.13-08.34.57:376][727]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.367 ms
+[2020.08.13-08.34.57:408][733]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 32.734 ms
+[2020.08.13-08.34.57:428][737]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 21.000 ms
+[2020.08.13-08.34.57:461][743]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.599 ms
+[2020.08.13-08.34.57:492][749]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.738 ms
+[2020.08.13-08.34.57:524][755]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.801 ms
+[2020.08.13-08.34.57:556][761]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.704 ms
+[2020.08.13-08.34.57:587][767]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.664 ms
+[2020.08.13-08.34.57:620][773]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 32.030 ms
+[2020.08.13-08.34.57:650][779]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.373 ms
+[2020.08.13-08.34.57:683][785]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.630 ms
+[2020.08.13-08.34.57:715][791]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.040 ms
+[2020.08.13-08.34.57:747][797]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.816 ms
+[2020.08.13-08.34.57:768][801]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 21.980 ms
+[2020.08.13-08.34.57:801][807]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.405 ms
+[2020.08.13-08.34.57:843][815]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 41.845 ms
+[2020.08.13-08.34.57:875][821]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.168 ms
+[2020.08.13-08.34.57:905][827]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.063 ms
+[2020.08.13-08.34.57:937][833]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.540 ms
+[2020.08.13-08.34.57:958][837]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 20.558 ms
+[2020.08.13-08.34.57:989][843]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.860 ms
+[2020.08.13-08.34.58:022][849]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.780 ms
+[2020.08.13-08.34.58:054][855]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.693 ms
+[2020.08.13-08.34.58:096][863]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 42.619 ms
+[2020.08.13-08.34.58:117][867]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 21.499 ms
+[2020.08.13-08.34.58:149][873]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.265 ms
+[2020.08.13-08.34.58:182][879]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 32.509 ms
+[2020.08.13-08.34.58:213][885]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 30.891 ms
+[2020.08.13-08.34.58:245][891]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.720 ms
+[2020.08.13-08.34.58:276][897]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.384 ms
+[2020.08.13-08.34.58:297][901]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 21.290 ms
+[2020.08.13-08.34.58:340][909]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 42.601 ms
+[2020.08.13-08.34.58:371][915]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 30.657 ms
+[2020.08.13-08.34.58:403][921]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.971 ms
+[2020.08.13-08.34.58:434][927]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.223 ms
+[2020.08.13-08.34.58:465][933]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.790 ms
+[2020.08.13-08.34.58:497][939]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.634 ms
+[2020.08.13-08.34.58:518][943]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 21.597 ms
+[2020.08.13-08.34.58:551][949]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.294 ms
+[2020.08.13-08.34.58:592][957]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 41.205 ms
+[2020.08.13-08.34.58:624][963]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.671 ms
+[2020.08.13-08.34.58:656][969]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.792 ms
+[2020.08.13-08.34.58:677][973]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 21.131 ms
+[2020.08.13-08.34.58:708][979]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.636 ms
+[2020.08.13-08.34.58:740][985]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.272 ms
+[2020.08.13-08.34.58:772][991]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.809 ms
+[2020.08.13-08.34.58:805][997]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 33.095 ms
+[2020.08.13-08.34.58:846][  5]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 42.059 ms
+[2020.08.13-08.34.58:868][  9]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 21.099 ms
+[2020.08.13-08.34.58:899][ 15]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.616 ms
+[2020.08.13-08.34.58:931][ 21]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.619 ms
+[2020.08.13-08.34.58:963][ 27]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.696 ms
+[2020.08.13-08.34.58:994][ 33]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 30.844 ms
+[2020.08.13-08.34.59:026][ 39]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 32.021 ms
+[2020.08.13-08.34.59:048][ 43]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 21.674 ms
+[2020.08.13-08.34.59:090][ 51]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 41.951 ms
+[2020.08.13-08.34.59:123][ 57]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 33.204 ms
+[2020.08.13-08.34.59:153][ 63]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.083 ms
+[2020.08.13-08.34.59:186][ 69]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.641 ms
+[2020.08.13-08.34.59:216][ 75]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.525 ms
+[2020.08.13-08.34.59:240][ 79]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 22.518 ms
+[2020.08.13-08.34.59:270][ 85]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 30.672 ms
+[2020.08.13-08.34.59:302][ 91]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.019 ms
+[2020.08.13-08.34.59:344][ 99]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 42.193 ms
+[2020.08.13-08.34.59:376][105]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.086 ms
+[2020.08.13-08.34.59:409][111]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 32.444 ms
+[2020.08.13-08.34.59:430][115]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 20.565 ms
+[2020.08.13-08.34.59:462][121]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 32.565 ms
+[2020.08.13-08.34.59:492][127]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 30.859 ms
+[2020.08.13-08.34.59:524][133]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.486 ms
+[2020.08.13-08.34.59:556][139]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.230 ms
+[2020.08.13-08.34.59:588][145]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.424 ms
+[2020.08.13-08.34.59:619][151]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.466 ms
+[2020.08.13-08.34.59:652][157]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.680 ms
+[2020.08.13-08.34.59:682][163]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.313 ms
+[2020.08.13-08.34.59:714][169]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.542 ms
+[2020.08.13-08.34.59:745][175]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.191 ms
+[2020.08.13-08.34.59:777][181]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.780 ms
+[2020.08.13-08.34.59:799][185]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 22.357 ms
+[2020.08.13-08.34.59:841][193]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 41.826 ms
+[2020.08.13-08.34.59:873][199]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.705 ms
+[2020.08.13-08.34.59:904][205]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.410 ms
+[2020.08.13-08.34.59:937][211]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 33.221 ms
+[2020.08.13-08.34.59:958][215]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 20.542 ms
+[2020.08.13-08.34.59:990][221]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.739 ms
+[2020.08.13-08.35.00:021][227]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.711 ms
+[2020.08.13-08.35.00:053][233]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.634 ms
+[2020.08.13-08.35.00:095][241]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 42.082 ms
+[2020.08.13-08.35.00:128][247]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 32.298 ms
+[2020.08.13-08.35.00:149][251]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 21.692 ms
+[2020.08.13-08.35.00:181][257]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.720 ms
+[2020.08.13-08.35.00:214][263]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 33.125 ms
+[2020.08.13-08.35.00:245][269]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.450 ms
+[2020.08.13-08.35.00:269][273]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 23.657 ms
+[2020.08.13-08.35.00:297][279]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 29.194 ms
+[2020.08.13-08.35.00:340][287]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 42.471 ms
+[2020.08.13-08.35.00:372][293]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.286 ms
+[2020.08.13-08.35.00:405][299]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 32.477 ms
+[2020.08.13-08.35.00:436][305]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.493 ms
+[2020.08.13-08.35.00:467][311]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 30.962 ms
+[2020.08.13-08.35.00:489][315]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 21.777 ms
+[2020.08.13-08.35.00:520][321]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.630 ms
+[2020.08.13-08.35.00:552][327]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.892 ms
+[2020.08.13-08.35.00:594][335]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 41.957 ms
+[2020.08.13-08.35.00:626][341]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.583 ms
+[2020.08.13-08.35.00:648][345]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 22.549 ms
+[2020.08.13-08.35.00:679][351]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 30.468 ms
+[2020.08.13-08.35.00:711][357]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.078 ms
+[2020.08.13-08.35.00:742][363]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.762 ms
+[2020.08.13-08.35.00:774][369]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.795 ms
+[2020.08.13-08.35.00:807][375]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.614 ms
+[2020.08.13-08.35.00:839][381]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 32.022 ms
+[2020.08.13-08.35.00:871][387]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.607 ms
+[2020.08.13-08.35.00:902][393]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.824 ms
+[2020.08.13-08.35.00:935][399]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.273 ms
+[2020.08.13-08.35.00:965][405]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.196 ms
+[2020.08.13-08.35.00:997][411]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 30.754 ms
+[2020.08.13-08.35.01:019][415]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 22.025 ms
+[2020.08.13-08.35.01:050][421]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 30.864 ms
+[2020.08.13-08.35.01:091][429]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 41.650 ms
+[2020.08.13-08.35.01:123][435]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.717 ms
+[2020.08.13-08.35.01:156][441]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.593 ms
+[2020.08.13-08.35.01:177][445]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 21.429 ms
+[2020.08.13-08.35.01:209][451]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.107 ms
+[2020.08.13-08.35.01:240][457]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 30.261 ms
+[2020.08.13-08.35.01:272][463]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.812 ms
+[2020.08.13-08.35.01:303][469]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.405 ms
+[2020.08.13-08.35.01:346][477]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 43.246 ms
+[2020.08.13-08.35.01:368][481]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 21.504 ms
+[2020.08.13-08.35.01:400][487]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.540 ms
+[2020.08.13-08.35.01:432][493]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.952 ms
+[2020.08.13-08.35.01:463][499]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.425 ms
+[2020.08.13-08.35.01:495][505]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.757 ms
+[2020.08.13-08.35.01:527][511]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.721 ms
+[2020.08.13-08.35.01:549][515]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 22.138 ms
+[2020.08.13-08.35.01:590][523]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 41.036 ms
+[2020.08.13-08.35.01:623][529]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 32.616 ms
+[2020.08.13-08.35.01:654][535]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.851 ms
+[2020.08.13-08.35.01:686][541]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.083 ms
+[2020.08.13-08.35.01:707][545]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 22.345 ms
+[2020.08.13-08.35.01:739][551]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.466 ms
+[2020.08.13-08.35.01:771][557]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.292 ms
+[2020.08.13-08.35.01:802][563]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.424 ms
+[2020.08.13-08.35.01:845][571]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 42.779 ms
+[2020.08.13-08.35.01:876][577]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.862 ms
+[2020.08.13-08.35.01:897][581]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 21.152 ms
+[2020.08.13-08.35.01:930][587]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.531 ms
+[2020.08.13-08.35.01:960][593]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 30.751 ms
+[2020.08.13-08.35.01:992][599]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.510 ms
+[2020.08.13-08.35.02:024][605]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.695 ms
+[2020.08.13-08.35.02:055][611]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.464 ms
+[2020.08.13-08.35.02:097][619]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 41.768 ms
+[2020.08.13-08.35.02:119][623]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 22.478 ms
+[2020.08.13-08.35.02:150][629]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.686 ms
+[2020.08.13-08.35.02:182][635]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.318 ms
+[2020.08.13-08.35.02:214][641]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.032 ms
+[2020.08.13-08.35.02:245][647]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.185 ms
+[2020.08.13-08.35.02:277][653]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.413 ms
+[2020.08.13-08.35.02:298][657]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 21.176 ms
+[2020.08.13-08.35.02:340][665]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 41.731 ms
+[2020.08.13-08.35.02:370][671]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.381 ms
+[2020.08.13-08.35.02:403][677]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.568 ms
+[2020.08.13-08.35.02:434][683]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.952 ms
+[2020.08.13-08.35.02:465][689]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.140 ms
+[2020.08.13-08.35.02:497][695]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.802 ms
+[2020.08.13-08.35.02:519][699]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 21.625 ms
+[2020.08.13-08.35.02:550][705]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.633 ms
+[2020.08.13-08.35.02:592][713]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 41.506 ms
+[2020.08.13-08.35.02:624][719]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.532 ms
+[2020.08.13-08.35.02:655][725]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.788 ms
+[2020.08.13-08.35.02:688][731]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 32.223 ms
+[2020.08.13-08.35.02:709][735]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 21.342 ms
+[2020.08.13-08.35.02:741][741]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 32.428 ms
+[2020.08.13-08.35.02:774][747]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.823 ms
+[2020.08.13-08.35.02:807][753]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.977 ms
+[2020.08.13-08.35.02:839][759]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.517 ms
+[2020.08.13-08.35.02:870][765]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.316 ms
+[2020.08.13-08.35.02:902][771]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.805 ms
+[2020.08.13-08.35.02:933][777]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.386 ms
+[2020.08.13-08.35.02:965][783]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.885 ms
+[2020.08.13-08.35.02:996][789]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 30.754 ms
+[2020.08.13-08.35.03:018][793]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 22.054 ms
+[2020.08.13-08.35.03:051][799]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 33.087 ms
+[2020.08.13-08.35.03:094][807]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 42.966 ms
+[2020.08.13-08.35.03:125][813]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.402 ms
+[2020.08.13-08.35.03:157][819]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.658 ms
+[2020.08.13-08.35.03:178][823]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 21.458 ms
+[2020.08.13-08.35.03:211][829]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.207 ms
+[2020.08.13-08.35.03:241][835]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 30.703 ms
+[2020.08.13-08.35.03:273][841]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.724 ms
+[2020.08.13-08.35.03:304][847]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.428 ms
+[2020.08.13-08.35.03:346][855]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 41.733 ms
+[2020.08.13-08.35.03:368][859]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 21.361 ms
+[2020.08.13-08.35.03:399][865]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.813 ms
+[2020.08.13-08.35.03:432][871]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.771 ms
+[2020.08.13-08.35.03:463][877]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.729 ms
+[2020.08.13-08.35.03:496][883]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 33.124 ms
+[2020.08.13-08.35.03:527][889]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.006 ms
+[2020.08.13-08.35.03:549][893]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 21.416 ms
+[2020.08.13-08.35.03:591][901]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 42.278 ms
+[2020.08.13-08.35.03:622][907]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.705 ms
+[2020.08.13-08.35.03:655][913]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.364 ms
+[2020.08.13-08.35.03:677][917]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 21.927 ms
+[2020.08.13-08.35.03:709][923]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.514 ms
+[2020.08.13-08.35.03:740][929]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 30.968 ms
+[2020.08.13-08.35.03:773][935]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.117 ms
+[2020.08.13-08.35.03:803][941]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.085 ms
+[2020.08.13-08.35.03:847][949]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 43.038 ms
+[2020.08.13-08.35.03:879][955]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.644 ms
+[2020.08.13-08.35.03:899][959]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 20.983 ms
+[2020.08.13-08.35.03:931][965]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.580 ms
+[2020.08.13-08.35.03:962][971]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.559 ms
+[2020.08.13-08.35.03:993][977]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 30.586 ms
+[2020.08.13-08.35.04:025][983]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.533 ms
+[2020.08.13-08.35.04:057][989]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.825 ms
+[2020.08.13-08.35.04:087][995]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.489 ms
+[2020.08.13-08.35.04:119][  1]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.867 ms
+[2020.08.13-08.35.04:153][  7]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 33.007 ms
+[2020.08.13-08.35.04:187][ 13]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 34.045 ms
+[2020.08.13-08.35.04:218][ 19]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.490 ms
+[2020.08.13-08.35.04:239][ 23]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 20.692 ms
+[2020.08.13-08.35.04:270][ 29]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.480 ms
+[2020.08.13-08.35.04:302][ 35]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.627 ms
+[2020.08.13-08.35.04:344][ 43]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 42.047 ms
+[2020.08.13-08.35.04:375][ 49]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.524 ms
+[2020.08.13-08.35.04:406][ 55]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.474 ms
+[2020.08.13-08.35.04:428][ 59]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 21.864 ms
+[2020.08.13-08.35.04:460][ 65]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.414 ms
+[2020.08.13-08.35.04:493][ 71]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.552 ms
+[2020.08.13-08.35.04:525][ 77]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.756 ms
+[2020.08.13-08.35.04:556][ 83]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.888 ms
+[2020.08.13-08.35.04:588][ 89]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.615 ms
+[2020.08.13-08.35.04:620][ 95]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.564 ms
+[2020.08.13-08.35.04:652][101]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.836 ms
+[2020.08.13-08.35.04:683][107]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 32.077 ms
+[2020.08.13-08.35.04:716][113]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.166 ms
+[2020.08.13-08.35.04:737][117]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 21.211 ms
+[2020.08.13-08.35.04:770][123]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.706 ms
+[2020.08.13-08.35.04:799][129]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 29.637 ms
+[2020.08.13-08.35.04:844][137]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 44.121 ms
+[2020.08.13-08.35.04:875][143]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.825 ms
+[2020.08.13-08.35.04:908][149]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 32.232 ms
+[2020.08.13-08.35.04:927][153]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 19.749 ms
+[2020.08.13-08.35.04:959][159]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.314 ms
+[2020.08.13-08.35.04:990][165]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.718 ms
+[2020.08.13-08.35.05:022][171]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.700 ms
+[2020.08.13-08.35.05:054][177]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.019 ms
+[2020.08.13-08.35.05:096][185]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 42.526 ms
+[2020.08.13-08.35.05:127][191]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 30.489 ms
+[2020.08.13-08.35.05:148][195]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 21.362 ms
+[2020.08.13-08.35.05:180][201]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 32.390 ms
+[2020.08.13-08.35.05:212][207]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.616 ms
+[2020.08.13-08.35.05:244][213]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.892 ms
+[2020.08.13-08.35.05:276][219]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.497 ms
+[2020.08.13-08.35.05:297][223]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 21.511 ms
+[2020.08.13-08.35.05:338][231]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 41.159 ms
+[2020.08.13-08.35.05:370][237]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.269 ms
+[2020.08.13-08.35.05:402][243]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 32.189 ms
+[2020.08.13-08.35.05:433][249]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.634 ms
+[2020.08.13-08.35.05:465][255]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.461 ms
+[2020.08.13-08.35.05:497][261]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.185 ms
+[2020.08.13-08.35.05:518][265]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 21.034 ms
+[2020.08.13-08.35.05:550][271]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.126 ms
+[2020.08.13-08.35.05:593][279]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 43.280 ms
+[2020.08.13-08.35.05:625][285]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.748 ms
+[2020.08.13-08.35.05:657][291]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.583 ms
+[2020.08.13-08.35.05:679][295]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 21.557 ms
+[2020.08.13-08.35.05:711][301]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.393 ms
+[2020.08.13-08.35.05:742][307]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.155 ms
+[2020.08.13-08.35.05:773][313]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.734 ms
+[2020.08.13-08.35.05:805][319]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 30.971 ms
+[2020.08.13-08.35.05:837][325]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 32.183 ms
+[2020.08.13-08.35.05:870][331]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.982 ms
+[2020.08.13-08.35.05:902][337]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.795 ms
+[2020.08.13-08.35.05:932][343]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 30.940 ms
+[2020.08.13-08.35.05:965][349]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.815 ms
+[2020.08.13-08.35.05:995][355]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.425 ms
+[2020.08.13-08.35.06:027][361]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 30.726 ms
+[2020.08.13-08.35.06:048][365]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 21.832 ms
+[2020.08.13-08.35.06:089][373]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 40.951 ms
+[2020.08.13-08.35.06:120][379]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.514 ms
+[2020.08.13-08.35.06:153][385]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.956 ms
+[2020.08.13-08.35.06:185][391]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.953 ms
+[2020.08.13-08.35.06:217][397]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.905 ms
+[2020.08.13-08.35.06:238][401]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 21.509 ms
+[2020.08.13-08.35.06:270][407]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.452 ms
+[2020.08.13-08.35.06:301][413]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.429 ms
+[2020.08.13-08.35.06:343][421]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 42.160 ms
+[2020.08.13-08.35.06:375][427]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.688 ms
+[2020.08.13-08.35.06:406][433]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.109 ms
+[2020.08.13-08.35.06:427][437]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 20.862 ms
+[2020.08.13-08.35.06:459][443]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.503 ms
+[2020.08.13-08.35.06:490][449]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.614 ms
+[2020.08.13-08.35.06:522][455]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 32.112 ms
+[2020.08.13-08.35.06:554][461]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.526 ms
+[2020.08.13-08.35.06:595][469]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 41.703 ms
+[2020.08.13-08.35.06:617][473]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 22.284 ms
+[2020.08.13-08.35.06:649][479]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.614 ms
+[2020.08.13-08.35.06:681][485]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.787 ms
+[2020.08.13-08.35.06:712][491]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.295 ms
+[2020.08.13-08.35.06:744][497]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.788 ms
+[2020.08.13-08.35.06:776][503]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.430 ms
+[2020.08.13-08.35.06:807][509]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.800 ms
+[2020.08.13-08.35.06:839][515]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.834 ms
+[2020.08.13-08.35.06:871][521]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.894 ms
+[2020.08.13-08.35.06:904][527]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 32.123 ms
+[2020.08.13-08.35.06:934][533]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.329 ms
+[2020.08.13-08.35.06:966][539]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.784 ms
+[2020.08.13-08.35.06:999][545]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.592 ms
+[2020.08.13-08.35.07:020][549]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 20.660 ms
+[2020.08.13-08.35.07:051][555]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.572 ms
+[2020.08.13-08.35.07:092][563]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 41.425 ms
+[2020.08.13-08.35.07:124][569]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.363 ms
+[2020.08.13-08.35.07:155][575]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.437 ms
+[2020.08.13-08.35.07:177][579]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 22.038 ms
+[2020.08.13-08.35.07:209][585]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.460 ms
+[2020.08.13-08.35.07:241][591]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.972 ms
+[2020.08.13-08.35.07:273][597]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.125 ms
+[2020.08.13-08.35.07:305][603]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.900 ms
+[2020.08.13-08.35.07:347][611]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 41.928 ms
+[2020.08.13-08.35.07:367][615]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 20.252 ms
+[2020.08.13-08.35.07:398][621]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.331 ms
+[2020.08.13-08.35.07:430][627]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.628 ms
+[2020.08.13-08.35.07:460][633]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 30.314 ms
+[2020.08.13-08.35.07:491][639]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.492 ms
+[2020.08.13-08.35.07:525][645]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 33.400 ms
+[2020.08.13-08.35.07:556][651]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.007 ms
+[2020.08.13-08.35.07:588][657]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.604 ms
+[2020.08.13-08.35.07:620][663]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.471 ms
+[2020.08.13-08.35.07:650][669]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.679 ms
+[2020.08.13-08.35.07:683][675]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 69, LastCall: 31.849 ms
+[2020.08.13-08.35.07:714][681]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 113, LastCall: 31.132 ms
+[2020.08.13-08.35.07:745][687]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 63, LastCall: 31.810 ms
+[2020.08.13-08.35.07:778][693]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 102, LastCall: 32.693 ms
+[2020.08.13-08.35.07:798][697]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 92, LastCall: 19.779 ms
+[2020.08.13-08.35.07:840][705]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 52, LastCall: 41.863 ms
+[2020.08.13-08.35.07:873][711]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 94, LastCall: 32.782 ms
+[2020.08.13-08.35.07:904][717]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 45, LastCall: 31.484 ms
+[2020.08.13-08.35.07:937][723]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 96, LastCall: 32.141 ms
+[2020.08.13-08.35.07:966][729]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 53, LastCall: 30.161 ms
+[2020.08.13-08.35.07:988][733]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 86, LastCall: 21.672 ms
+[2020.08.13-08.35.08:019][739]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 46, LastCall: 31.598 ms
+[2020.08.13-08.35.08:051][745]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 86, LastCall: 31.462 ms
+[2020.08.13-08.35.08:093][753]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 61, LastCall: 41.390 ms
+[2020.08.13-08.35.08:125][759]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 24, LastCall: 32.040 ms
+[2020.08.13-08.35.08:157][765]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 28, LastCall: 31.669 ms
+[2020.08.13-08.35.08:178][769]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 21.500 ms
+[2020.08.13-08.35.08:211][775]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.846 ms
+[2020.08.13-08.35.08:242][781]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.336 ms
+[2020.08.13-08.35.08:274][787]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.227 ms
+[2020.08.13-08.35.08:306][793]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.021 ms
+[2020.08.13-08.35.08:338][799]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.264 ms
+[2020.08.13-08.35.08:370][805]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.725 ms
+[2020.08.13-08.35.08:402][811]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 32.132 ms
+[2020.08.13-08.35.08:434][817]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.842 ms
+[2020.08.13-08.35.08:466][823]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.742 ms
+[2020.08.13-08.35.08:498][829]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.837 ms
+[2020.08.13-08.35.08:520][833]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 21.329 ms
+[2020.08.13-08.35.08:551][839]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.352 ms
+[2020.08.13-08.35.08:593][847]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 41.564 ms
+[2020.08.13-08.35.08:625][853]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.395 ms
+[2020.08.13-08.35.08:657][859]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.702 ms
+[2020.08.13-08.35.08:679][863]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 21.999 ms
+[2020.08.13-08.35.08:711][869]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 30.950 ms
+[2020.08.13-08.35.08:741][875]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.061 ms
+[2020.08.13-08.35.08:773][881]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.557 ms
+[2020.08.13-08.35.08:804][887]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.197 ms
+[2020.08.13-08.35.08:846][895]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 42.205 ms
+[2020.08.13-08.35.08:868][899]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 21.588 ms
+[2020.08.13-08.35.08:900][905]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.591 ms
+[2020.08.13-08.35.08:930][911]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 30.401 ms
+[2020.08.13-08.35.08:961][917]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.446 ms
+[2020.08.13-08.35.08:993][923]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.769 ms
+[2020.08.13-08.35.09:025][929]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.306 ms
+[2020.08.13-08.35.09:056][935]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.401 ms
+[2020.08.13-08.35.09:088][941]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.022 ms
+[2020.08.13-08.35.09:119][947]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.277 ms
+[2020.08.13-08.35.09:151][953]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.817 ms
+[2020.08.13-08.35.09:182][959]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.391 ms
+[2020.08.13-08.35.09:215][965]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.754 ms
+[2020.08.13-08.35.09:247][971]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.487 ms
+[2020.08.13-08.35.09:268][975]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 21.654 ms
+[2020.08.13-08.35.09:299][981]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.078 ms
+[2020.08.13-08.35.09:341][989]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 41.907 ms
+[2020.08.13-08.35.09:372][995]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 30.971 ms
+[2020.08.13-08.35.09:404][  1]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 32.054 ms
+[2020.08.13-08.35.09:436][  7]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.409 ms
+[2020.08.13-08.35.09:466][ 13]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 30.850 ms
+[2020.08.13-08.35.09:488][ 17]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 21.330 ms
+[2020.08.13-08.35.09:518][ 23]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 30.761 ms
+[2020.08.13-08.35.09:551][ 29]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.651 ms
+[2020.08.13-08.35.09:592][ 37]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 41.492 ms
+[2020.08.13-08.35.09:625][ 43]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 32.212 ms
+[2020.08.13-08.35.09:657][ 49]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.033 ms
+[2020.08.13-08.35.09:679][ 53]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 22.145 ms
+[2020.08.13-08.35.09:711][ 59]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.457 ms
+[2020.08.13-08.35.09:742][ 65]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.578 ms
+[2020.08.13-08.35.09:773][ 71]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.745 ms
+[2020.08.13-08.35.09:805][ 77]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.515 ms
+[2020.08.13-08.35.09:838][ 83]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 32.863 ms
+[2020.08.13-08.35.09:872][ 89]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 33.389 ms
+[2020.08.13-08.35.09:903][ 95]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.445 ms
+[2020.08.13-08.35.09:935][101]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.741 ms
+[2020.08.13-08.35.09:966][107]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.559 ms
+[2020.08.13-08.35.09:998][113]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.768 ms
+[2020.08.13-08.35.10:019][117]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 20.670 ms
+[2020.08.13-08.35.10:052][123]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.882 ms
+[2020.08.13-08.35.10:092][131]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 41.586 ms
+[2020.08.13-08.35.10:125][137]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.677 ms
+[2020.08.13-08.35.10:156][143]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.665 ms
+[2020.08.13-08.35.10:178][147]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 21.136 ms
+[2020.08.13-08.35.10:210][153]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.351 ms
+[2020.08.13-08.35.10:242][159]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.969 ms
+[2020.08.13-08.35.10:274][165]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.879 ms
+[2020.08.13-08.35.10:305][171]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.224 ms
+[2020.08.13-08.35.10:347][179]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 42.193 ms
+[2020.08.13-08.35.10:367][183]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 20.241 ms
+[2020.08.13-08.35.10:399][189]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.524 ms
+[2020.08.13-08.35.10:430][195]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.538 ms
+[2020.08.13-08.35.10:461][201]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 30.374 ms
+[2020.08.13-08.35.10:493][207]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.989 ms
+[2020.08.13-08.35.10:525][213]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.718 ms
+[2020.08.13-08.35.10:558][219]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 33.312 ms
+[2020.08.13-08.35.10:589][225]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.701 ms
+[2020.08.13-08.35.10:621][231]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.418 ms
+[2020.08.13-08.35.10:652][237]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.326 ms
+[2020.08.13-08.35.10:684][243]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 32.044 ms
+[2020.08.13-08.35.10:716][249]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.875 ms
+[2020.08.13-08.35.10:738][253]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 21.048 ms
+[2020.08.13-08.35.10:770][259]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.445 ms
+[2020.08.13-08.35.10:801][265]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.092 ms
+[2020.08.13-08.35.10:843][273]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 41.963 ms
+[2020.08.13-08.35.10:875][279]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.042 ms
+[2020.08.13-08.35.10:907][285]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.955 ms
+[2020.08.13-08.35.10:928][289]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 21.151 ms
+[2020.08.13-08.35.10:959][295]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 30.473 ms
+[2020.08.13-08.35.10:991][301]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.796 ms
+[2020.08.13-08.35.11:021][307]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.639 ms
+[2020.08.13-08.35.11:054][313]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.844 ms
+[2020.08.13-08.35.11:096][321]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 42.162 ms
+[2020.08.13-08.35.11:128][327]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 32.263 ms
+[2020.08.13-08.35.11:151][331]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 22.679 ms
+[2020.08.13-08.35.11:181][337]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 30.238 ms
+[2020.08.13-08.35.11:214][343]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.973 ms
+[2020.08.13-08.35.11:248][349]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 33.396 ms
+[2020.08.13-08.35.11:269][353]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 21.185 ms
+[2020.08.13-08.35.11:301][359]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.177 ms
+[2020.08.13-08.35.11:343][367]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 41.756 ms
+[2020.08.13-08.35.11:374][373]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.586 ms
+[2020.08.13-08.35.11:406][379]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 11, LastCall: 31.803 ms
+[2020.08.13-08.35.11:427][383]LogVoiceEngine: OSS: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 20.883 ms
+[2020.08.13-08.35.11:449][387]LogWindowsDesktop: Alt-F4 pressed!
+[2020.08.13-08.35.11:450][387]LogSlate: Request Window 'NetworkSessionTest (64-bit Development PCD3D_SM5) ' being destroyed
+[2020.08.13-08.35.11:460][387]LogSlate: Window 'NetworkSessionTest (64-bit Development PCD3D_SM5) ' being destroyed
+[2020.08.13-08.35.11:461][387]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.08.13-08.35.11:465][387]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.13-08.35.11:465][387]LogEngine: All Windows Closed
+[2020.08.13-08.35.11:465][387]LogWindows: FPlatformMisc::RequestExit(0)
+[2020.08.13-08.35.11:465][387]LogCore: Engine exit requested (reason: Win RequestExit)
+[2020.08.13-08.35.11:466][388]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.08.13-08.35.11:466][388]LogAudio: Display: Shutting down audio device while 2 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2020.08.13-08.35.11:512][388]LogInit: Display: PreExit Game.
+[2020.08.13-08.35.11:535][388]LogWorld: BeginTearingDown for /Game/GameLevel
+[2020.08.13-08.35.11:535][388]LogNet: World NetDriver shutdown IpNetDriver_2147482517 [GameNetDriver]
+[2020.08.13-08.35.11:535][388]LogNet: DestroyNamedNetDriver IpNetDriver_2147482517 [GameNetDriver]
+[2020.08.13-08.35.11:535][388]LogExit: GameNetDriver IpNetDriver_2147482517 shut down
+[2020.08.13-08.35.11:535][388]LogWorld: UWorld::CleanupWorld for GameLevel, bSessionEnded=true, bCleanupResources=true
+[2020.08.13-08.35.11:536][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.13-08.35.11:948][388]LogExit: Preparing to exit.
+[2020.08.13-08.35.11:948][388]LogMoviePlayer: Shutting down movie player
+[2020.08.13-08.35.11:952][388]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.13-08.35.11:953][388]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.08.13-08.35.11:955][388]LogExit: Game engine shut down
+[2020.08.13-08.35.11:960][388]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (000002B552822780), frame # 17388
+[2020.08.13-08.35.11:961][388]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002B551F40EC0), frame # 17388
+[2020.08.13-08.35.11:961][388]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002B552770200), frame # 17388
+[2020.08.13-08.35.11:961][388]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002B554CBD000), frame # 17388
+[2020.08.13-08.35.11:963][388]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002B52C20E0C0), frame # 17388
+[2020.08.13-08.35.11:983][388]LogExit: Object subsystem successfully closed.
+[2020.08.13-08.35.12:001][388]LogModuleManager: Shutting down and abandoning module AutomationController (318)
+[2020.08.13-08.35.12:001][388]LogModuleManager: Shutting down and abandoning module AutomationWorker (316)
+[2020.08.13-08.35.12:001][388]LogModuleManager: Shutting down and abandoning module Voice (314)
+[2020.08.13-08.35.12:011][388]LogModuleManager: Shutting down and abandoning module AIModule (312)
+[2020.08.13-08.35.12:011][388]LogModuleManager: Shutting down and abandoning module GameplayDebugger (311)
+[2020.08.13-08.35.12:011][388]LogModuleManager: Shutting down and abandoning module NavigationSystem (309)
+[2020.08.13-08.35.12:011][388]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (306)
+[2020.08.13-08.35.12:011][388]LogModuleManager: Shutting down and abandoning module WebMMedia (304)
+[2020.08.13-08.35.12:011][388]LogModuleManager: Shutting down and abandoning module OculusMR (302)
+[2020.08.13-08.35.12:011][388]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (300)
+[2020.08.13-08.35.12:011][388]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (298)
+[2020.08.13-08.35.12:011][388]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (296)
+[2020.08.13-08.35.12:012][388]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (294)
+[2020.08.13-08.35.12:012][388]LogModuleManager: Shutting down and abandoning module CharacterAI (292)
+[2020.08.13-08.35.12:012][388]LogModuleManager: Shutting down and abandoning module PlanarCut (290)
+[2020.08.13-08.35.12:012][388]LogModuleManager: Shutting down and abandoning module SessionServices (288)
+[2020.08.13-08.35.12:012][388]LogModuleManager: Shutting down and abandoning module LiveCoding (286)
+[2020.08.13-08.35.12:012][388]LogModuleManager: Shutting down and abandoning module LevelSequence (284)
+[2020.08.13-08.35.12:012][388]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (282)
+[2020.08.13-08.35.12:012][388]LogModuleManager: Shutting down and abandoning module MovieScene (280)
+[2020.08.13-08.35.12:012][388]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (278)
+[2020.08.13-08.35.12:012][388]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (276)
+[2020.08.13-08.35.12:012][388]LogModuleManager: Shutting down and abandoning module AudioMixerCore (275)
+[2020.08.13-08.35.12:012][388]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (272)
+[2020.08.13-08.35.12:012][388]LogModuleManager: Shutting down and abandoning module ProfilerService (270)
+[2020.08.13-08.35.12:036][388]LogModuleManager: Shutting down and abandoning module TaskGraph (268)
+[2020.08.13-08.35.12:036][388]LogModuleManager: Shutting down and abandoning module Synthesis (266)
+[2020.08.13-08.35.12:036][388]LogModuleManager: Shutting down and abandoning module OculusInput (264)
+[2020.08.13-08.35.12:036][388]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (262)
+[2020.08.13-08.35.12:036][388]LogModuleManager: Shutting down and abandoning module GooglePAD (260)
+[2020.08.13-08.35.12:036][388]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (258)
+[2020.08.13-08.35.12:036][388]LogModuleManager: Shutting down and abandoning module CableComponent (256)
+[2020.08.13-08.35.12:036][388]LogModuleManager: Shutting down and abandoning module AudioCapture (254)
+[2020.08.13-08.35.12:036][388]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (253)
+[2020.08.13-08.35.12:036][388]LogModuleManager: Shutting down and abandoning module AssetTags (250)
+[2020.08.13-08.35.12:036][388]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (248)
+[2020.08.13-08.35.12:036][388]LogModuleManager: Shutting down and abandoning module AppleImageUtils (246)
+[2020.08.13-08.35.12:036][388]LogModuleManager: Shutting down and abandoning module AndroidPermission (244)
+[2020.08.13-08.35.12:036][388]LogModuleManager: Shutting down and abandoning module TemplateSequence (242)
+[2020.08.13-08.35.12:036][388]LogModuleManager: Shutting down and abandoning module MediaCompositing (240)
+[2020.08.13-08.35.12:036][388]LogModuleManager: Shutting down and abandoning module ImgMedia (238)
+[2020.08.13-08.35.12:036][388]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (236)
+[2020.08.13-08.35.12:036][388]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (234)
+[2020.08.13-08.35.12:036][388]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (232)
+[2020.08.13-08.35.12:036][388]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (230)
+[2020.08.13-08.35.12:036][388]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (228)
+[2020.08.13-08.35.12:036][388]LogModuleManager: Shutting down and abandoning module ChaosNiagara (226)
+[2020.08.13-08.35.12:036][388]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (224)
+[2020.08.13-08.35.12:036][388]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (222)
+[2020.08.13-08.35.12:036][388]LogModuleManager: Shutting down and abandoning module EditableMesh (220)
+[2020.08.13-08.35.12:036][388]LogModuleManager: Shutting down and abandoning module MeshSolverUtilities (218)
+[2020.08.13-08.35.12:036][388]LogModuleManager: Shutting down and abandoning module MeshConversion (216)
+[2020.08.13-08.35.12:036][388]LogModuleManager: Shutting down and abandoning module DynamicMesh (214)
+[2020.08.13-08.35.12:036][388]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (212)
+[2020.08.13-08.35.12:036][388]LogModuleManager: Shutting down and abandoning module GeometricObjects (210)
+[2020.08.13-08.35.12:036][388]LogModuleManager: Shutting down and abandoning module ChaosCloth (208)
+[2020.08.13-08.35.12:036][388]LogModuleManager: Shutting down and abandoning module BackChannel (206)
+[2020.08.13-08.35.12:036][388]LogModuleManager: Shutting down and abandoning module AutomationUtils (204)
+[2020.08.13-08.35.12:036][388]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (202)
+[2020.08.13-08.35.12:036][388]LogModuleManager: Shutting down and abandoning module GeometryCache (200)
+[2020.08.13-08.35.12:036][388]LogModuleManager: Shutting down and abandoning module UObjectPlugin (198)
+[2020.08.13-08.35.12:036][388]LogModuleManager: Shutting down and abandoning module NetworkSessionTest (196)
+[2020.08.13-08.35.12:036][388]LogModuleManager: Shutting down and abandoning module SoundFields (194)
+[2020.08.13-08.35.12:036][388]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (192)
+[2020.08.13-08.35.12:036][388]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (188)
+[2020.08.13-08.35.12:036][388]LogModuleManager: Shutting down and abandoning module ActorSequence (186)
+[2020.08.13-08.35.12:036][388]LogModuleManager: Shutting down and abandoning module UdpMessaging (184)
+[2020.08.13-08.35.12:036][388]LogModuleManager: Shutting down and abandoning module TcpMessaging (182)
+[2020.08.13-08.35.12:036][388]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (180)
+[2020.08.13-08.35.12:036][388]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (178)
+[2020.08.13-08.35.12:037][388]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (176)
+[2020.08.13-08.35.12:037][388]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (174)
+[2020.08.13-08.35.12:037][388]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (172)
+[2020.08.13-08.35.12:037][388]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (170)
+[2020.08.13-08.35.12:037][388]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (168)
+[2020.08.13-08.35.12:037][388]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (166)
+[2020.08.13-08.35.12:037][388]LogModuleManager: Shutting down and abandoning module MagicLeapController (164)
+[2020.08.13-08.35.12:037][388]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.08.13-08.35.12:037][388]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (162)
+[2020.08.13-08.35.12:037][388]LogModuleManager: Shutting down and abandoning module MagicLeapAR (160)
+[2020.08.13-08.35.12:037][388]LogModuleManager: Shutting down and abandoning module AugmentedReality (159)
+[2020.08.13-08.35.12:037][388]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (156)
+[2020.08.13-08.35.12:037][388]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (154)
+[2020.08.13-08.35.12:037][388]LogModuleManager: Shutting down and abandoning module Niagara (152)
+[2020.08.13-08.35.12:037][388]LogModuleManager: Shutting down and abandoning module SignalProcessing (151)
+[2020.08.13-08.35.12:037][388]LogModuleManager: Shutting down and abandoning module NiagaraCore (148)
+[2020.08.13-08.35.12:037][388]LogModuleManager: Shutting down and abandoning module FacialAnimation (146)
+[2020.08.13-08.35.12:037][388]LogModuleManager: Shutting down and abandoning module SignificanceManager (144)
+[2020.08.13-08.35.12:037][388]LogModuleManager: Shutting down and abandoning module AnimationSharing (142)
+[2020.08.13-08.35.12:037][388]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (140)
+[2020.08.13-08.35.12:037][388]LogModuleManager: Shutting down and abandoning module Paper2D (138)
+[2020.08.13-08.35.12:037][388]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (136)
+[2020.08.13-08.35.12:037][388]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (134)
+[2020.08.13-08.35.12:037][388]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (132)
+[2020.08.13-08.35.12:037][388]LogModuleManager: Shutting down and abandoning module PacketHandler (130)
+[2020.08.13-08.35.12:037][388]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (128)
+[2020.08.13-08.35.12:037][388]LogModuleManager: Shutting down and abandoning module MediaAssets (126)
+[2020.08.13-08.35.12:037][388]LogModuleManager: Shutting down and abandoning module Overlay (124)
+[2020.08.13-08.35.12:037][388]LogModuleManager: Shutting down and abandoning module FunctionalTesting (122)
+[2020.08.13-08.35.12:037][388]LogModuleManager: Shutting down and abandoning module MessageLog (120)
+[2020.08.13-08.35.12:037][388]LogModuleManager: Shutting down and abandoning module UMG (118)
+[2020.08.13-08.35.12:037][388]LogModuleManager: Shutting down and abandoning module SlateReflector (116)
+[2020.08.13-08.35.12:037][388]LogModuleManager: Shutting down and abandoning module Slate (114)
+[2020.08.13-08.35.12:038][388]LogModuleManager: Shutting down and abandoning module SlateCore (112)
+[2020.08.13-08.35.12:038][388]LogModuleManager: Shutting down and abandoning module MRMesh (110)
+[2020.08.13-08.35.12:038][388]LogModuleManager: Shutting down and abandoning module Messaging (108)
+[2020.08.13-08.35.12:038][388]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (106)
+[2020.08.13-08.35.12:038][388]LogModuleManager: Shutting down and abandoning module XAudio2 (104)
+[2020.08.13-08.35.12:038][388]LogModuleManager: Shutting down and abandoning module Networking (102)
+[2020.08.13-08.35.12:038][388]LogModuleManager: Shutting down and abandoning module Core (100)
+[2020.08.13-08.35.12:038][388]LogModuleManager: Shutting down and abandoning module ImageWrapper (96)
+[2020.08.13-08.35.12:038][388]LogModuleManager: Shutting down and abandoning module InputCore (94)
+[2020.08.13-08.35.12:038][388]LogModuleManager: Shutting down and abandoning module Settings (92)
+[2020.08.13-08.35.12:038][388]LogModuleManager: Shutting down and abandoning module PhysXCooking (90)
+[2020.08.13-08.35.12:038][388]LogModuleManager: Shutting down and abandoning module ChaosSolvers (88)
+[2020.08.13-08.35.12:038][388]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (87)
+[2020.08.13-08.35.12:038][388]LogModuleManager: Shutting down and abandoning module Chaos (84)
+[2020.08.13-08.35.12:038][388]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2020.08.13-08.35.12:038][388]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2020.08.13-08.35.12:038][388]LogModuleManager: Shutting down and abandoning module AVEncoder (80)
+[2020.08.13-08.35.12:038][388]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (76)
+[2020.08.13-08.35.12:038][388]LogModuleManager: Shutting down and abandoning module SteamVRInput (74)
+[2020.08.13-08.35.12:038][388]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2020.08.13-08.35.12:038][388]LogHMD: Freeing OpenVRDLLHandle.
+[2020.08.13-08.35.12:038][388]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2020.08.13-08.35.12:038][388]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2020.08.13-08.35.12:038][388]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2020.08.13-08.35.12:038][388]LogModuleManager: Shutting down and abandoning module WmfMedia (64)
+[2020.08.13-08.35.12:038][388]LogModuleManager: Shutting down and abandoning module Media (63)
+[2020.08.13-08.35.12:039][388]LogModuleManager: Shutting down and abandoning module MagicLeap (60)
+[2020.08.13-08.35.12:039][388]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (58)
+[2020.08.13-08.35.12:039][388]LogModuleManager: Shutting down and abandoning module NiagaraShader (56)
+[2020.08.13-08.35.12:039][388]LogModuleManager: Shutting down and abandoning module VariantManagerContent (54)
+[2020.08.13-08.35.12:039][388]LogModuleManager: Shutting down and abandoning module DatasmithContent (52)
+[2020.08.13-08.35.12:039][388]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2020.08.13-08.35.12:039][388]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (46)
+[2020.08.13-08.35.12:039][388]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2020.08.13-08.35.12:062][388]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2020.08.13-08.35.12:063][388]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (36)
+[2020.08.13-08.35.12:063][388]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (34)
+[2020.08.13-08.35.12:063][388]LogModuleManager: Shutting down and abandoning module PlatformCrypto (32)
+[2020.08.13-08.35.12:063][388]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.08.13-08.35.12:063][388]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.08.13-08.35.12:063][388]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.08.13-08.35.12:063][388]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.08.13-08.35.12:063][388]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.08.13-08.35.12:063][388]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.08.13-08.35.12:063][388]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.08.13-08.35.12:063][388]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.08.13-08.35.12:063][388]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.08.13-08.35.12:063][388]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.08.13-08.35.12:063][388]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.08.13-08.35.12:063][388]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.08.13-08.35.12:063][388]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.08.13-08.35.12:063][388]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.08.13-08.35.12:064][388]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.08.13-08.35.12:064][388]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2020.08.13-08.35.12:066][388]LogD3D11RHI: Shutdown
+[2020.08.13-08.35.12:066][388]LogD3D11RHI: CleanupD3DDevice
+[2020.08.13-08.35.12:070][388]LogExit: Exiting.
+[2020.08.13-08.35.12:079][388]Log file closed, 08/13/20 14:05:12
